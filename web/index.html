@@ -34,7 +34,7 @@
 <script>document.title="SC "+VERSION+" Quantum Ranking";document.getElementById("title").textContent="Star Citizen "+VERSION+" – Ship × Quantum Drive";</script>
 <script src="vendor/tabulator.min.js"></script>
 <script>
-const TEXT = new Set([0, 2, 3, 4]);
+const TEXT = new Set([0, 2, 3, 22]);
 const $ = id => document.getElementById(id);
 const fmt = v => typeof v === 'number' ? v.toLocaleString('en-US') : v;
 
@@ -56,21 +56,21 @@ const table = new Tabulator('#table', {
   height: '75vh',
   layout: 'fitDataFill',
   columnHeaderSortMulti: true,
-  initialSort: [{ column: 'c7', dir: 'desc' }],
+  initialSort: [{ column: 'c5', dir: 'desc' }],
 });
 
 function applyFilters() {
   const q = $('q').value.trim().toLowerCase(), s = $('size').value, c = +$('cargo').value || 0;
   const st = $('stock').checked, pr = $('priced').checked;
   table.setFilter(d =>
-    (!s || d.c1 == s) && d.c11 >= c && (!st || d.c4) && (!pr || d.c16 !== null) &&
+    (!s || d.c1 == s) && d.c9 >= c && (!st || d.c22) && (!pr || d.c13 !== null) &&
     (!q || (d.c0 + ' ' + d.c2).toLowerCase().includes(q)));
 }
 
 let timer;
 $('q').addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(applyFilters, 150); });
 ['size', 'cargo', 'stock', 'priced'].forEach(id => $(id).addEventListener('input', applyFilters));
-$('reset').addEventListener('click', () => table.setSort([{ column: 'c7', dir: 'desc' }]));
+$('reset').addEventListener('click', () => table.setSort([{ column: 'c5', dir: 'desc' }]));
 
 const updateInfo = () => { $('info').textContent = `${table.getDataCount('active')} of ${ROWS.length} combinations`; };
 table.on('tableBuilt', updateInfo);

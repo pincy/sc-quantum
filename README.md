@@ -155,15 +155,16 @@ Columns (in this order):
 
 | Columns | Content |
 |---|---|
-| Ship, QD size, Quantum drive, Grade, Stock | The combination; Stock = the drive is the ship's stock drive |
-| Tank SCU, SCU/Gm, Range Gm | Range calculation |
+| Ship, QD size, Quantum drive, Grade | The combination; Grade is the letter plus drive class (Civ, Ind, Mil, Sta, Com), e.g. `A - Mil` |
+| SCU/Gm, Range Gm | Range calculation |
 | Speed Mm/s, Cooldown s, Spool s | Drive values |
-| Cargo SCU, Mass t, SCM m/s | Ship values (mass including loadout) |
+| Cargo SCU, SCM m/s | Ship values |
 | Ship aUEC, Drive aUEC, Total aUEC | Lowest UEX purchase prices |
 | **Flight total s** | Total time of the route above |
 | **QT 60 Gm s**, **QT 3 Gm s**, **QT 30 Gm s** | Pure quantum flight time per jump |
 | **Spool+wait s** | 3 × spool plus cooldown wait |
 | **Short-range s** | SCM, NAV, 3 × approach and 2 × gaining distance |
+| Tank SCU, Mass t, Stock | Quantum fuel tank, ship mass including loadout, ✓ = the drive is the ship's stock drive |
 
 The flight time columns are calculated for all combinations. For ships without complete flight data in the API
 (Aopoa Khartu-al, Aopoa San'tok.yāi, Drake Herald, Esperia Prowler Utility) they are empty.
