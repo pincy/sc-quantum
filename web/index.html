@@ -3,18 +3,12 @@
 <head>
 <meta charset="utf-8">
 <title>SC Quantum Ranking</title>
+<link rel="stylesheet" href="vendor/tabulator.min.css">
 <style>
   body { font-family: sans-serif; margin: 1rem; }
   .controls { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-bottom: .5rem; }
-  #wrap { max-height: 75vh; overflow: auto; border: 1px solid #ccc; }
-  table { border-collapse: collapse; width: 100%; }
-  th, td { padding: 4px 8px; border-bottom: 1px solid #e5e5e5; white-space: nowrap; }
-  thead th { position: sticky; top: 0; background: #2d3748; color: #fff; cursor: pointer; user-select: none; z-index: 1; text-align: left; }
-  thead th:hover { background: #4a5568; }
-  td.num, th.num { text-align: right; }
-  tbody tr:nth-child(even) { background: #f6f8fa; }
-  tbody tr:hover { background: #e2eefc; }
-  .prio { font-size: .7em; vertical-align: super; margin-left: 2px; color: #fbd38d; }
+  .num { text-align: right; }
+  .tabulator .tabulator-row:hover { background: #e2eefc; }
   #info, .hint { color: #555; font-size: .9em; }
 </style>
 </head>
@@ -33,69 +27,54 @@
   <label><input id="priced" type="checkbox"> with price only</label>
   <button id="reset">Reset sorting</button>
 </div>
-<p class="hint">Click = sort by column (click again: toggle direction). <b>Shift+click</b> = add another column as the next sort key. The small number shows the order.</p>
-<div id="wrap"><table><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table></div>
+<p class="hint">Click = sort by column (click again: toggle direction). <b>Shift+click</b> = add another column as the next sort key.</p>
+<div id="table"></div>
 <p id="info"></p>
 <script src="data.js"></script>
 <script>document.title="SC "+VERSION+" Quantum Ranking";document.getElementById("title").textContent="Star Citizen "+VERSION+" – Ship × Quantum Drive";</script>
+<script src="vendor/tabulator.min.js"></script>
 <script>
 const TEXT = new Set([0, 2, 3, 4]);
-let sort = [[7, -1]]; // [column index, direction]; default: range descending
 const $ = id => document.getElementById(id);
+const fmt = v => typeof v === 'number' ? v.toLocaleString('en-US') : v;
 
-const headRow = $('head');
-HEAD.forEach((h, i) => {
-  const th = document.createElement('th');
-  if (!TEXT.has(i)) th.className = 'num';
-  th.addEventListener('click', e => toggle(i, e.shiftKey));
-  headRow.appendChild(th);
+const columns = HEAD.map((h, i) => ({
+  title: h,
+  field: 'c' + i,
+  sorter: TEXT.has(i) ? 'string' : 'number',
+  sorterParams: { alwaysEmptyLast: true },
+  headerSortStartingDir: TEXT.has(i) ? 'asc' : 'desc',
+  hozAlign: TEXT.has(i) ? 'left' : 'right',
+  formatter: cell => { const v = cell.getValue(); return v === null ? '' : fmt(v); },
+}));
+
+const data = ROWS.map(r => Object.fromEntries(r.map((v, i) => ['c' + i, v])));
+
+const table = new Tabulator('#table', {
+  data,
+  columns,
+  height: '75vh',
+  layout: 'fitDataFill',
+  columnHeaderSortMulti: true,
+  initialSort: [{ column: 'c7', dir: 'desc' }],
 });
 
-function toggle(i, add) {
-  const pos = sort.findIndex(s => s[0] === i);
-  if (add) {
-    if (pos >= 0) sort[pos][1] *= -1; else sort.push([i, TEXT.has(i) ? 1 : -1]);
-  } else {
-    const dir = pos >= 0 && sort.length === 1 ? -sort[0][1] : (TEXT.has(i) ? 1 : -1);
-    sort = [[i, dir]];
-  }
-  render();
-}
-
-function cmp(a, b) {
-  for (const [i, dir] of sort) {
-    const x = a[i], y = b[i];
-    if (x === y) continue;
-    if (x === null) return 1; // empty values always last
-    if (y === null) return -1;
-    const c = TEXT.has(i) ? String(x).localeCompare(String(y), 'en') : x - y;
-    if (c) return c * dir;
-  }
-  return 0;
-}
-
-const fmt = v => v === null ? '' : typeof v === 'number' ? v.toLocaleString('en-US') : v;
-
-function render() {
+function applyFilters() {
   const q = $('q').value.trim().toLowerCase(), s = $('size').value, c = +$('cargo').value || 0;
   const st = $('stock').checked, pr = $('priced').checked;
-  const rows = ROWS.filter(r =>
-    (!s || r[1] == s) && r[11] >= c && (!st || r[4]) && (!pr || r[16] !== null) &&
-    (!q || (r[0] + ' ' + r[2]).toLowerCase().includes(q))
-  ).sort(cmp);
-  $('body').innerHTML = rows.map(r =>
-    '<tr>' + r.map((v, i) => `<td${TEXT.has(i) ? '' : ' class="num"'}>${fmt(v)}</td>`).join('') + '</tr>').join('');
-  headRow.querySelectorAll('th').forEach((th, i) => {
-    const pos = sort.findIndex(x => x[0] === i);
-    th.innerHTML = HEAD[i] + (pos >= 0
-      ? ` ${sort[pos][1] > 0 ? '▲' : '▼'}${sort.length > 1 ? `<span class="prio">${pos + 1}</span>` : ''}` : '');
-  });
-  $('info').textContent = `${rows.length} of ${ROWS.length} combinations`;
+  table.setFilter(d =>
+    (!s || d.c1 == s) && d.c11 >= c && (!st || d.c4) && (!pr || d.c16 !== null) &&
+    (!q || (d.c0 + ' ' + d.c2).toLowerCase().includes(q)));
 }
 
-['q', 'size', 'cargo', 'stock', 'priced'].forEach(id => $(id).addEventListener('input', render));
-$('reset').addEventListener('click', () => { sort = [[7, -1]]; render(); });
-render();
+let timer;
+$('q').addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(applyFilters, 150); });
+['size', 'cargo', 'stock', 'priced'].forEach(id => $(id).addEventListener('input', applyFilters));
+$('reset').addEventListener('click', () => table.setSort([{ column: 'c7', dir: 'desc' }]));
+
+const updateInfo = () => { $('info').textContent = `${table.getDataCount('active')} of ${ROWS.length} combinations`; };
+table.on('tableBuilt', updateInfo);
+table.on('dataFiltered', updateInfo);
 </script>
 </body>
 </html>
