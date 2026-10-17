@@ -1,80 +1,61 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SC Quantum Ranking</title>
+<script>document.documentElement.dataset.theme = localStorage.getItem('theme') || 'dark';</script>
 <link rel="stylesheet" href="vendor/tabulator.min.css">
-<style>
-  body { font-family: sans-serif; margin: 1rem; }
-  .controls { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-bottom: .5rem; }
-  .num { text-align: right; }
-  .tabulator .tabulator-row:hover { background: #e2eefc; }
-  #info, .hint { color: #555; font-size: .9em; }
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1 id="title">Star Citizen – Ship × Quantum Drive</h1>
-<p>Range (Gm) = tank / SCU per Gm. Sources:
-  <a href="https://api.star-citizen.wiki/api/v2/vehicles">ships</a>,
-  <a href="https://api.star-citizen.wiki/api/v2/items?filter[type]=QuantumDrive">modules</a>;
-  Prices from UEX (lowest purchase price, community data). Only purchasable ships, only drives of matching size.</p>
-<p>Flight time is a modelled route (undock, NAV, then QT jumps of 60 Gm, 3 Gm and 30 Gm with 30 km approaches) based on the API acceleration and speed values, not a measured in-game time; the assumptions are described in the <a href="../README.md">README</a>.</p>
-<div class="controls">
-  <label>Search <input id="q" type="search" placeholder="ship or drive"></label>
-  <label>QD size <select id="size"><option value="">all</option><option>1</option><option>2</option><option>3</option><option>4</option></select></label>
-  <label>min. cargo <input id="cargo" type="number" value="0" min="0" style="width:5em"></label>
-  <label><input id="stock" type="checkbox"> stock drive only</label>
-  <label><input id="priced" type="checkbox"> with price only</label>
-  <button id="reset">Reset sorting</button>
+<header>
+  <h1>Ship × Quantum Drive</h1>
+  <span class="badge" id="version"></span>
+  <span class="spacer"></span>
+  <button class="btn" id="theme" title="Toggle dark/light theme">Theme</button>
+</header>
+
+<details class="info">
+  <summary>About this data</summary>
+  <p>Range (Gm) = tank / SCU per Gm. Sources:
+    <a href="https://api.star-citizen.wiki/api/v2/vehicles">ships</a>,
+    <a href="https://api.star-citizen.wiki/api/v2/items?filter[type]=QuantumDrive">modules</a>;
+    prices from UEX (lowest purchase price, community data). Only purchasable ships, only drives of matching size.</p>
+  <p>Flight time is a modelled route (undock, NAV, then QT jumps of 60 Gm, 3 Gm and 30 Gm with 30 km approaches)
+    based on the API acceleration and speed values, not a measured in-game time; the assumptions are described in the
+    <a href="https://github.com/pincy/sc-quantum#readme">README</a>.</p>
+  <p>Click a column header to sort (click again: toggle direction). <b>Shift+click</b> adds another column as the next
+    sort key. The price limit uses the total price (ship + drive); for a stock drive the ship price is used.</p>
+</details>
+
+<div class="toolbar">
+  <div class="group"><input id="q" type="search" placeholder="Ship or drive"></div>
+  <div class="group"><span class="label">QD size</span>
+    <div class="seg" id="size">
+      <button data-v="" class="on">All</button><button data-v="1">1</button><button data-v="2">2</button><button data-v="3">3</button><button data-v="4">4</button>
+    </div></div>
+  <div class="group"><span class="label">Grade</span>
+    <div class="seg" id="grade">
+      <button data-v="A">A</button><button data-v="B">B</button><button data-v="C">C</button><button data-v="D">D</button>
+    </div></div>
+  <div class="group"><span class="label">Min. cargo</span><input id="cargo" type="number" value="0" min="0"></div>
+  <div class="group"><span class="label">Max. price (M aUEC)</span><input id="price" type="number" min="0" step="1" placeholder="any"></div>
+  <label class="switch"><input id="stock" type="checkbox"><span class="track"></span>Stock drive only</label>
+  <label class="switch"><input id="priced" type="checkbox"><span class="track"></span>With price only</label>
+  <span class="spacer"></span>
+  <button class="btn" id="reset">Reset sorting</button>
+  <div class="menu" id="colmenu">
+    <button class="btn" id="colbtn">Columns ▾</button>
+    <div class="pop" id="colpop"></div>
+  </div>
 </div>
-<p class="hint">Click = sort by column (click again: toggle direction). <b>Shift+click</b> = add another column as the next sort key.</p>
+
+<div class="statusline"><span><span id="count"></span> combinations</span></div>
 <div id="table"></div>
-<p id="info"></p>
+
 <script src="data.js"></script>
-<script>document.title="SC "+VERSION+" Quantum Ranking";document.getElementById("title").textContent="Star Citizen "+VERSION+" – Ship × Quantum Drive";</script>
 <script src="vendor/tabulator.min.js"></script>
-<script>
-const TEXT = new Set([0, 2, 3, 22]);
-const $ = id => document.getElementById(id);
-const fmt = v => typeof v === 'number' ? v.toLocaleString('en-US') : v;
-
-const columns = HEAD.map((h, i) => ({
-  title: h,
-  field: 'c' + i,
-  sorter: TEXT.has(i) ? 'string' : 'number',
-  sorterParams: { alwaysEmptyLast: true },
-  headerSortStartingDir: TEXT.has(i) ? 'asc' : 'desc',
-  hozAlign: TEXT.has(i) ? 'left' : 'right',
-  formatter: cell => { const v = cell.getValue(); return v === null ? '' : fmt(v); },
-}));
-
-const data = ROWS.map(r => Object.fromEntries(r.map((v, i) => ['c' + i, v])));
-
-const table = new Tabulator('#table', {
-  data,
-  columns,
-  height: '75vh',
-  layout: 'fitDataFill',
-  columnHeaderSortMulti: true,
-  initialSort: [{ column: 'c5', dir: 'desc' }],
-});
-
-function applyFilters() {
-  const q = $('q').value.trim().toLowerCase(), s = $('size').value, c = +$('cargo').value || 0;
-  const st = $('stock').checked, pr = $('priced').checked;
-  table.setFilter(d =>
-    (!s || d.c1 == s) && d.c9 >= c && (!st || d.c22) && (!pr || d.c13 !== null) &&
-    (!q || (d.c0 + ' ' + d.c2).toLowerCase().includes(q)));
-}
-
-let timer;
-$('q').addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(applyFilters, 150); });
-['size', 'cargo', 'stock', 'priced'].forEach(id => $(id).addEventListener('input', applyFilters));
-$('reset').addEventListener('click', () => table.setSort([{ column: 'c5', dir: 'desc' }]));
-
-const updateInfo = () => { $('info').textContent = `${table.getDataCount('active')} of ${ROWS.length} combinations`; };
-table.on('tableBuilt', updateInfo);
-table.on('dataFiltered', updateInfo);
-</script>
+<script src="app.js"></script>
 </body>
 </html>
