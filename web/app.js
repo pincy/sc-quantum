@@ -90,16 +90,19 @@ const table = new Tabulator('#table', {
 let size = '';
 const grades = new Set();
 
+const visibleFields = () => HEAD.map((_, i) => 'c' + i).filter(f => f !== 'c22' && !hidden.has(f));
+
 function applyFilters() {
   const q = $('q').value.trim().toLowerCase(), c = +$('cargo').value || 0;
   const maxPrice = $('price').value === '' ? null : +$('price').value * 1e6;
-  const st = $('stock').checked, pr = $('priced').checked;
+  const st = $('stock').checked, pr = $('priced').checked, complete = $('complete').checked;
   table.setFilter(d => {
     if (size && d.c1 != size) return false;
     if (grades.size && !grades.has((d.c3 || '').charAt(0))) return false;
     if (d.c9 < c) return false;
     if (st && !d.c22) return false;
     if (pr && d.c13 === null) return false;
+    if (complete && visibleFields().some(f => d[f] === null)) return false;
     if (maxPrice !== null) {
       const price = d.c13 !== null ? d.c13 : (d.c22 ? d.c11 : null);
       if (price === null || price > maxPrice) return false;
@@ -112,7 +115,7 @@ let timer;
 const debounced = () => { clearTimeout(timer); timer = setTimeout(applyFilters, 150); };
 $('q').addEventListener('input', debounced);
 $('price').addEventListener('input', debounced);
-['cargo', 'stock', 'priced'].forEach(id => $(id).addEventListener('input', applyFilters));
+['cargo', 'stock', 'priced', 'complete'].forEach(id => $(id).addEventListener('input', applyFilters));
 
 $('size').addEventListener('click', e => {
   if (e.target.tagName !== 'BUTTON') return;
@@ -136,6 +139,7 @@ $('colpop').addEventListener('change', e => {
   const f = e.target.dataset.f;
   if (e.target.checked) { hidden.delete(f); table.showColumn(f); } else { hidden.add(f); table.hideColumn(f); }
   localStorage.setItem('hiddenCols', JSON.stringify([...hidden]));
+  if ($('complete').checked) applyFilters();
 });
 $('colbtn').addEventListener('click', e => { e.stopPropagation(); $('colmenu').classList.toggle('open'); });
 document.addEventListener('click', e => { if (!$('colmenu').contains(e.target)) $('colmenu').classList.remove('open'); });

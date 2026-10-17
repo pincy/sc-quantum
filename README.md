@@ -152,7 +152,8 @@ Features:
 - Frozen Ship column, column groups, grade badges, range bars and a green-to-red color scale for the flight times.
 - Show/hide columns via the *Columns* menu (stored in the browser).
 - Filters: search (ship/drive), QD size, grade, minimum cargo, maximum price in million aUEC, stock drive only,
-  with price only. The price limit uses the total price (ship + drive); for a stock drive the ship price.
+  with price only, complete rows only (hides rows with an empty value in any visible column, so hiding a column
+  such as the flight times changes the result). The price limit uses the total price (ship + drive); for a stock drive the ship price.
 - Empty values are always sorted last.
 
 Columns (in this order):
