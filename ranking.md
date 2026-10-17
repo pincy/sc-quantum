@@ -1,15 +1,15 @@
-# Star Citizen 4.10.2-LIVE – Quantum Range je Schiff × Quantum Drive
+# Star Citizen 4.10.2-LIVE – Quantum range per ship × quantum drive
 
-Formel: **Range (Gm) = QT-Tank (SCU) / fuel_consumption_scu_per_gm**. Es ist die untere Grenze der SPViewer-Spanne. Das Maximum ist nicht erklärt. Es gibt nur Module passender Größe. Nur kaufbare Schiffe (UEX-Kaufpreis). Größe und Tank stammen aus dem Stock-Loadout. ★ = Stock-Drive.
+Formula: **range (Gm) = QT tank (SCU) / fuel_consumption_scu_per_gm**. This is the lower bound of the SPViewer range span; the SPViewer maximum is unexplained. Only drives of matching size are combined. Only purchasable ships (UEX purchase price). Size and tank come from the stock loadout. ★ = stock drive.
 
-Quellen: Schiffe https://api.star-citizen.wiki/api/v2/vehicles, Module https://api.star-citizen.wiki/api/v2/items?filter[type]=QuantumDrive (Version 4.10.2-LIVE.12881860). Ohne die Platzhalter-Module und den Mauler-Drive.
+Sources: ships https://api.star-citizen.wiki/api/v2/vehicles, drives https://api.star-citizen.wiki/api/v2/items?filter[type]=QuantumDrive (version 4.10.2-LIVE.12881860). Placeholder drives and the Mauler drive are excluded.
 
-Hinweis: `fuel_consumption_scu_per_gm` ist in der API auf 3 Nachkommastellen gerundet, besonders bei S1 (0,004/0,005) ist der Fehler groß.
+Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for size 1 (0.004/0.005) the error is large.
 
 
-## Quantum Drive Size 1 (72 Schiffe, 1440 Kombinationen)
+## Quantum drive size 1 (72 ships, 1440 combinations)
 
-| # | Schiff | Quantum Drive | Grade | Klasse | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
+| # | Ship | Quantum drive | Grade | Class | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
 |--|--|--|--|--|--|--|--|--|
 | 1 | Drake Cutter Rambler | Spectre | A | Quantum Drive | 1.7 | 0.004 | 425.0 | 218 |
 | 2 | Drake Cutter Rambler | Zephyr | B | Quantum Drive | 1.7 | 0.004 | 425.0 | 184 |
@@ -1452,9 +1452,9 @@ Hinweis: `fuel_consumption_scu_per_gm` ist in der API auf 3 Nachkommastellen ger
 | 1439 | Origin M50 Interceptor | Expedition | C | Quantum Drive | 0.6 | 0.005 | 120.0 | 189 |
 | 1440 | Origin M50 Interceptor | Rush | C | Quantum Drive | 0.6 | 0.005 | 120.0 | 209 |
 
-## Quantum Drive Size 2 (47 Schiffe, 940 Kombinationen)
+## Quantum drive size 2 (47 ships, 940 combinations)
 
-| # | Schiff | Quantum Drive | Grade | Klasse | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
+| # | Ship | Quantum drive | Grade | Class | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
 |--|--|--|--|--|--|--|--|--|
 | 1 | Origin 600i | Nova | C | Quantum Drive | 9.9 | 0.018 | 550.0 | 211 |
 | 2 | Origin 600i | Spicule | A | Quantum Drive | 9.9 | 0.018 | 550.0 | 274 |
@@ -2397,9 +2397,9 @@ Hinweis: `fuel_consumption_scu_per_gm` ist in der API auf 3 Nachkommastellen ger
 | 939 | Grey's Shiv | Quest | D | Quantum Drive | 4.1 | 0.022 | 186.4 | 214 |
 | 940 | Grey's Shiv | Odyssey ★ | C | Quantum Drive | 4.1 | 0.022 | 186.4 | 238 |
 
-## Quantum Drive Size 3 (10 Schiffe, 150 Kombinationen)
+## Quantum drive size 3 (10 ships, 150 combinations)
 
-| # | Schiff | Quantum Drive | Grade | Klasse | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
+| # | Ship | Quantum drive | Grade | Class | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
 |--|--|--|--|--|--|--|--|--|
 | 1 | Aegis Reclaimer | Agni | B | Quantum Drive | 21.8 | 0.036 | 605.6 | 586 |
 | 2 | Aegis Reclaimer | Vesta | D | Quantum Drive | 21.8 | 0.036 | 605.6 | 479 |
@@ -2552,9 +2552,9 @@ Hinweis: `fuel_consumption_scu_per_gm` ist in der API auf 3 Nachkommastellen ger
 | 149 | Drake Caterpillar | Tyche | B | Quantum Drive | 18.8 | 0.039 | 482.1 | 532 |
 | 150 | Drake Caterpillar | Impulse | B | Quantum Drive | 18.8 | 0.039 | 482.1 | 559 |
 
-## Quantum Drive Size 4 (1 Schiffe, 2 Kombinationen)
+## Quantum drive size 4 (1 ships, 2 combinations)
 
-| # | Schiff | Quantum Drive | Grade | Klasse | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
+| # | Ship | Quantum drive | Grade | Class | Tank SCU | SCU/Gm | Range Gm | Speed Mm/s |
 |--|--|--|--|--|--|--|--|--|
 | 1 | Origin 890 Jump | Frontline | A | Quantum Drive | 33.1 | 0.053 | 624.5 | 974 |
 | 2 | Origin 890 Jump | Allegro ★ | A | Quantum Drive | 33.1 | 0.055 | 601.8 | 1263 |

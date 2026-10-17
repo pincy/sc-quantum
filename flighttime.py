@@ -1,19 +1,19 @@
-"""Flugzeit-Simulation: Undock -> QT 60 Gm -> Ziel -> Abstand -> QT 3 Gm -> Ziel -> Abstand -> QT 30 Gm -> Ziel.
+"""Flight time simulation: undock -> QT 60 Gm -> target -> gain distance -> QT 3 Gm -> target -> gain distance -> QT 30 Gm -> target.
 
-Alle Eingaben stammen aus den persistierten API-Daten (ships/, drives/).
-Annahmen stehen in ASSUMPTIONS und werden in der Ausgabe wiederholt.
+All inputs come from the persisted API data (ships/, drives/).
+The assumptions are documented in README.md.
 """
 import json, glob, os, math, sys
 
-UNDOCK_SCM_M = 5_000      # SCM nach dem Abdocken
-NAV_TO_QT_M = 10_000      # NAV bis zum QT-Punkt
+UNDOCK_SCM_M = 5_000      # SCM after undocking
+NAV_TO_QT_M = 10_000      # NAV to the quantum point
 QT1_M = 60e9
 QT_SHORT_M = 3e9
 QT2_M = 30e9
-ARRIVAL_M = 30_000        # Rest bis zum Ziel nach dem QT-Drop
-GAIN_M = 10_000           # Abstand gewinnen vor dem 2. Sprung (NAV, aus dem Stand)
+ARRIVAL_M = 30_000        # distance to the target after the QT drop
+GAIN_M = 10_000           # distance gained before the next jump (NAV, from standstill)
 
-COMBOS = [  # (Schiff game_name, Drive)
+COMBOS = [  # (ship game_name, drive)
     ("Drake Corsair", "SunFire"),
     ("Crusader C2 Hercules Starlifter", "Erebos"),
     ("Origin 315p", "FoxFire"),
@@ -29,19 +29,19 @@ COMBOS = [  # (Schiff game_name, Drive)
 
 
 def accel_run(v0, v1, a):
-    """Zeit und Strecke fuer v0 -> v1 mit konstanter Beschleunigung a."""
+    """Time and distance for v0 -> v1 at constant acceleration a."""
     t = (v1 - v0) / a
     return t, (v1 * v1 - v0 * v0) / (2 * a)
 
 
 def move(dist, v0, vmax, a_up, a_down=None, stop=True):
-    """Strecke dist mit Beschleunigen, ggf. Halten und optional Abbremsen auf 0."""
+    """Cover dist: accelerate, cruise if possible, optionally brake to 0."""
     t1, d1 = accel_run(v0, vmax, a_up)
     t3, d3 = accel_run(0, vmax, a_down) if stop else (0, 0)
     t3 = t3 if stop else 0
     if d1 + d3 <= dist:
         return t1 + (dist - d1 - d3) / vmax + t3
-    # Vmax nicht erreicht
+    # vmax not reached
     if not stop:
         v = math.sqrt(v0 * v0 + 2 * a_up * dist)
         return (v - v0) / a_up
@@ -50,7 +50,7 @@ def move(dist, v0, vmax, a_up, a_down=None, stop=True):
 
 
 def qt_time(dist, d):
-    """QT-Flug: 2 Beschleunigungsstufen, Abbremsen spiegelbildlich."""
+    """QT flight: two acceleration stages, braking mirrors acceleration."""
     v_e, v_max = d["engage_speed"], d["drive_speed"]
     a1, a2 = d["stage_one_accel_rate"], d["stage_two_accel_rate"]
     t1, d1 = accel_run(0, v_e, a1)
@@ -95,7 +95,7 @@ def simulate(ship, drive):
     spool, cd = m['spool_up_time'], m['cooldown_time']
 
     t_scm = move(UNDOCK_SCM_M, 0, scm, a_scm, stop=False)
-    # NAV beginnt mit SCM-Geschwindigkeit
+    # NAV starts at SCM speed
     t_nav = move(NAV_TO_QT_M, scm, vmax, a_nav, stop=False)
     t_qt1, v1 = qt_time(QT1_M, m)
     t_arr1 = move(ARRIVAL_M, 0, vmax, a_nav, a_brk)

@@ -1,9 +1,9 @@
 import json, glob, os
 import flighttime
 
-HDR = ["Schiff", "QD-Size", "Quantum Drive", "Grade", "Stock", "Tank SCU", "SCU/Gm", "Range Gm", "Speed Mm/s",
-       "Cooldown s", "Spool s", "Cargo SCU", "Masse t", "SCM m/s", "Schiff aUEC", "Drive aUEC", "Summe aUEC",
-       "Flug gesamt s", "QT 60 Gm s", "QT 3 Gm s", "QT 30 Gm s", "Spool+Wartezeit s", "Nahflug s"]
+HDR = ["Ship", "QD size", "Quantum drive", "Grade", "Stock", "Tank SCU", "SCU/Gm", "Range Gm", "Speed Mm/s",
+       "Cooldown s", "Spool s", "Cargo SCU", "Mass t", "SCM m/s", "Ship aUEC", "Drive aUEC", "Total aUEC",
+       "Flight total s", "QT 60 Gm s", "QT 3 Gm s", "QT 30 Gm s", "Spool+wait s", "Short-range s"]
 
 
 def prices(d):
@@ -18,7 +18,7 @@ for f in os.listdir('drives'):
     m = d['quantum_drive']['modes'][0]
     drives[d['name']] = dict(cd=m['cooldown_time'], spool=m['spool_up_time'], price=min(b) if b else None)
 
-# Pro Schiffsname: Eintrag mit Preis bevorzugen, Preis = Minimum über alle Einträge gleichen Namens
+# Per ship name: prefer the entry with a price; price = minimum over all entries with the same name
 ships = {}
 for f in sorted(glob.glob('ships/p*.json')):
     for d in json.load(open(f))['data']:
@@ -36,18 +36,18 @@ for r in json.load(open('combos.json')):
     dr = drives[r['qd']]
     total = s['price'] + dr['price'] if s['price'] and dr['price'] else None
     if not flighttime.has_flight_data(raw_ships[r['name']]):
-        rows.append([r['name'], r['size'], r['qd'], r['grade'], 'ja' if r['stk'] else '', r['tank'], r['c'],
+        rows.append([r['name'], r['size'], r['qd'], r['grade'], 'yes' if r['stk'] else '', r['tank'], r['c'],
                      round(r['rng'], 1), round(r['spd'], 1), dr['cd'], dr['spool'], s['cargo'],
                      round(r['mass'] / 1000, 1), s['scm'], s['price'], dr['price'], total] + [None] * 6)
         continue
     p, _ = flighttime.simulate(raw_ships[r['name']], raw_drives[r['qd']])
     spool_wait = p['spool1'] + p['spool_s'] + p['spool2'] + p['cd_wait1'] + p['cd_wait2']
     near = p['scm'] + p['nav'] + p['arr1'] + p['gain1'] + p['arr_s'] + p['gain2'] + p['arr2']
-    rows.append([r['name'], r['size'], r['qd'], r['grade'], 'ja' if r['stk'] else '', r['tank'], r['c'],
+    rows.append([r['name'], r['size'], r['qd'], r['grade'], 'yes' if r['stk'] else '', r['tank'], r['c'],
                  round(r['rng'], 1), round(r['spd'], 1), dr['cd'], dr['spool'], s['cargo'],
                  round(r['mass'] / 1000, 1), s['scm'], s['price'], dr['price'], total,
                  round(sum(p.values()), 1), round(p['qt1'], 1), round(p['qt_s'], 1), round(p['qt2'], 1),
                  round(spool_wait, 1), round(near, 1)])
 
 open('web/data.js', 'w').write('const HEAD=' + json.dumps(HDR) + ';\nconst ROWS=' + json.dumps(rows) + ';\n')
-print(sum(1 for r in rows if r[17] is None), 'Zeilen ohne Flugdaten;',len(rows), 'Zeilen; ohne Schiffspreis:', sorted({r[0] for r in rows if r[14] is None}))
+print(sum(1 for r in rows if r[17] is None), 'rows without flight data;', len(rows), 'rows; without ship price:', sorted({r[0] for r in rows if r[14] is None}))
