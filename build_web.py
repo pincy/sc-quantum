@@ -49,5 +49,7 @@ for r in json.load(open('combos.json')):
                  round(sum(p.values()), 1), round(p['qt1'], 1), round(p['qt_s'], 1), round(p['qt2'], 1),
                  round(spool_wait, 1), round(near, 1)])
 
-open('web/data.js', 'w').write('const HEAD=' + json.dumps(HDR) + ';\nconst ROWS=' + json.dumps(rows) + ';\n')
+VERSION = json.load(open('version.json'))['code'].split('.')[0:3]
+VERSION = '.'.join(VERSION)
+open('web/data.js', 'w').write('const VERSION=' + json.dumps(VERSION) + ';\nconst HEAD=' + json.dumps(HDR) + ';\nconst ROWS=' + json.dumps(rows) + ';\n')
 print(sum(1 for r in rows if r[17] is None), 'rows without flight data;', len(rows), 'rows; without ship price:', sorted({r[0] for r in rows if r[14] is None}))

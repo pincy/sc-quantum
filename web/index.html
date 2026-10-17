@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>SC 4.10.2 Quantum Ranking</title>
+<title>SC Quantum Ranking</title>
 <style>
   body { font-family: sans-serif; margin: 1rem; }
   .controls { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-bottom: .5rem; }
@@ -19,11 +19,12 @@
 </style>
 </head>
 <body>
-<h1>Star Citizen 4.10.2-LIVE – Ship × Quantum Drive</h1>
+<h1 id="title">Star Citizen – Ship × Quantum Drive</h1>
 <p>Range (Gm) = tank / SCU per Gm. Sources:
   <a href="https://api.star-citizen.wiki/api/v2/vehicles">ships</a>,
   <a href="https://api.star-citizen.wiki/api/v2/items?filter[type]=QuantumDrive">modules</a>;
   Prices from UEX (lowest purchase price, community data). Only purchasable ships, only drives of matching size.</p>
+<p>Flight time is a modelled route (undock, NAV, then QT jumps of 60 Gm, 3 Gm and 30 Gm with 30 km approaches) based on the API acceleration and speed values, not a measured in-game time; the assumptions are described in the <a href="../README.md">README</a>.</p>
 <div class="controls">
   <label>Search <input id="q" type="search" placeholder="ship or drive"></label>
   <label>QD size <select id="size"><option value="">all</option><option>1</option><option>2</option><option>3</option><option>4</option></select></label>
@@ -36,6 +37,7 @@
 <div id="wrap"><table><thead><tr id="head"></tr></thead><tbody id="body"></tbody></table></div>
 <p id="info"></p>
 <script src="data.js"></script>
+<script>document.title="SC "+VERSION+" Quantum Ranking";document.getElementById("title").textContent="Star Citizen "+VERSION+" – Ship × Quantum Drive";</script>
 <script>
 const TEXT = new Set([0, 2, 3, 4]);
 let sort = [[7, -1]]; // [column index, direction]; default: range descending

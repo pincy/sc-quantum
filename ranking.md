@@ -127,72 +127,72 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 114 | Aegis Sabre Peregrine | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
 | 115 | Aegis Sabre Peregrine | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
 | 116 | Aegis Sabre Peregrine | Drift ★ | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 117 | RSI Mantis | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 118 | RSI Mantis | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 119 | RSI Mantis | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 120 | RSI Meteor | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 121 | RSI Meteor | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 122 | RSI Meteor | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 123 | RSI Scorpius | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 124 | RSI Scorpius | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 125 | RSI Scorpius | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 126 | RSI Scorpius Antares | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 127 | RSI Scorpius Antares | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 128 | RSI Scorpius Antares | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 129 | Anvil C8 Pisces | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 130 | Anvil C8 Pisces | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 131 | Anvil C8 Pisces | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 132 | Anvil C8R Pisces Rescue | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 133 | Anvil C8R Pisces Rescue | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 134 | Anvil C8R Pisces Rescue | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 135 | Anvil C8X Pisces Expedition | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 136 | Anvil C8X Pisces Expedition | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 137 | Anvil C8X Pisces Expedition | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 138 | Anvil F7C Hornet Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 139 | Anvil F7C Hornet Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 140 | Anvil F7C Hornet Mk II | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 141 | Anvil F7C-R Hornet Tracker Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 142 | Anvil F7C-R Hornet Tracker Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 143 | Anvil F7C-R Hornet Tracker Mk II | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 144 | Anvil F7C-S Hornet Ghost Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 145 | Anvil F7C-S Hornet Ghost Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 146 | Anvil F7C-S Hornet Ghost Mk II | Drift ★ | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 147 | Anvil Hurricane | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 148 | Anvil Hurricane | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 149 | Anvil Hurricane | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 150 | Aopoa San'tok.yāi | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 151 | Aopoa San'tok.yāi | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 152 | Aopoa San'tok.yāi | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 153 | Crusader Intrepid | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 154 | Crusader Intrepid | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 155 | Crusader Intrepid | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 156 | Drake Vulture | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 157 | Drake Vulture | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 158 | Drake Vulture | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 159 | Gatac Syulen | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 160 | Gatac Syulen | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 161 | Gatac Syulen | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 162 | MISC Fortune | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 163 | MISC Fortune | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 164 | MISC Fortune | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 165 | MISC Prospector | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 166 | MISC Prospector | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 167 | MISC Prospector | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 168 | Origin 100i | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 169 | Origin 100i | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 170 | Origin 100i | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 171 | Origin 125a | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 172 | Origin 125a | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 173 | Origin 125a | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 174 | Origin 135c | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 175 | Origin 135c | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 176 | Origin 135c | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 177 | Origin 315p | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 178 | Origin 315p | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 179 | Origin 315p | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
-| 180 | RSI Aurora Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
-| 181 | RSI Aurora Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
-| 182 | RSI Aurora Mk II | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 117 | Anvil C8 Pisces | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 118 | Anvil C8 Pisces | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 119 | Anvil C8 Pisces | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 120 | Anvil C8R Pisces Rescue | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 121 | Anvil C8R Pisces Rescue | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 122 | Anvil C8R Pisces Rescue | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 123 | Anvil C8X Pisces Expedition | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 124 | Anvil C8X Pisces Expedition | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 125 | Anvil C8X Pisces Expedition | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 126 | Anvil F7C Hornet Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 127 | Anvil F7C Hornet Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 128 | Anvil F7C Hornet Mk II | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 129 | Anvil F7C-R Hornet Tracker Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 130 | Anvil F7C-R Hornet Tracker Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 131 | Anvil F7C-R Hornet Tracker Mk II | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 132 | Anvil F7C-S Hornet Ghost Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 133 | Anvil F7C-S Hornet Ghost Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 134 | Anvil F7C-S Hornet Ghost Mk II | Drift ★ | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 135 | Anvil Hurricane | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 136 | Anvil Hurricane | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 137 | Anvil Hurricane | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 138 | Aopoa San'tok.yāi | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 139 | Aopoa San'tok.yāi | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 140 | Aopoa San'tok.yāi | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 141 | Crusader Intrepid | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 142 | Crusader Intrepid | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 143 | Crusader Intrepid | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 144 | Drake Vulture | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 145 | Drake Vulture | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 146 | Drake Vulture | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 147 | Gatac Syulen | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 148 | Gatac Syulen | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 149 | Gatac Syulen | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 150 | MISC Fortune | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 151 | MISC Fortune | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 152 | MISC Fortune | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 153 | MISC Prospector | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 154 | MISC Prospector | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 155 | MISC Prospector | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 156 | Origin 100i | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 157 | Origin 100i | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 158 | Origin 100i | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 159 | Origin 125a | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 160 | Origin 125a | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 161 | Origin 125a | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 162 | Origin 135c | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 163 | Origin 135c | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 164 | Origin 135c | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 165 | Origin 315p | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 166 | Origin 315p | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 167 | Origin 315p | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 168 | RSI Aurora Mk II | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 169 | RSI Aurora Mk II | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 170 | RSI Aurora Mk II | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 171 | RSI Mantis | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 172 | RSI Mantis | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 173 | RSI Mantis | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 174 | RSI Meteor | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 175 | RSI Meteor | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 176 | RSI Meteor | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 177 | RSI Scorpius | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 178 | RSI Scorpius | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 179 | RSI Scorpius | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
+| 180 | RSI Scorpius Antares | Spectre | A | Quantum Drive | 0.9 | 0.004 | 225.0 | 218 |
+| 181 | RSI Scorpius Antares | Zephyr | B | Quantum Drive | 0.9 | 0.004 | 225.0 | 184 |
+| 182 | RSI Scorpius Antares | Drift | C | Quantum Drive | 0.9 | 0.004 | 225.0 | 167 |
 | 183 | Anvil Gladiator | Goliath | C | Quantum Drive | 1.1 | 0.005 | 220.0 | 219 |
 | 184 | Anvil Gladiator | Siren | B | Quantum Drive | 1.1 | 0.005 | 220.0 | 178 |
 | 185 | Anvil Gladiator | Voyage | B | Quantum Drive | 1.1 | 0.005 | 220.0 | 208 |
@@ -244,86 +244,86 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 231 | Drake Golem OX | Wayfare | D | Quantum Drive | 1.1 | 0.005 | 220.0 | 170 |
 | 232 | Drake Golem OX | Expedition | C | Quantum Drive | 1.1 | 0.005 | 220.0 | 189 |
 | 233 | Drake Golem OX | Rush | C | Quantum Drive | 1.1 | 0.005 | 220.0 | 209 |
-| 234 | RSI Salvation | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
-| 235 | RSI Salvation | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
-| 236 | RSI Salvation | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
-| 237 | C.O. Nomad | Goliath | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 238 | C.O. Nomad | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
-| 239 | C.O. Nomad | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
-| 240 | C.O. Nomad | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
-| 241 | C.O. Nomad | Flood | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
-| 242 | C.O. Nomad | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
-| 243 | C.O. Nomad | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 244 | C.O. Nomad | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
-| 245 | C.O. Nomad | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
-| 246 | C.O. Nomad | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
-| 247 | C.O. Nomad | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
-| 248 | C.O. Nomad | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
-| 249 | C.O. Nomad | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
-| 250 | C.O. Nomad | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
-| 251 | C.O. Nomad | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
-| 252 | C.O. Nomad | Expedition ★ | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
-| 253 | C.O. Nomad | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
-| 254 | Drake Clipper | Goliath | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 255 | Drake Clipper | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
-| 256 | Drake Clipper | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
-| 257 | Drake Clipper | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
-| 258 | Drake Clipper | Flood ★ | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
-| 259 | Drake Clipper | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
-| 260 | Drake Clipper | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 261 | Drake Clipper | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
-| 262 | Drake Clipper | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
-| 263 | Drake Clipper | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
-| 264 | Drake Clipper | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
-| 265 | Drake Clipper | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
-| 266 | Drake Clipper | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
-| 267 | Drake Clipper | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
-| 268 | Drake Clipper | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
-| 269 | Drake Clipper | Expedition | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
-| 270 | Drake Clipper | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
-| 271 | Drake Cutter | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
-| 272 | Drake Cutter | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
-| 273 | Drake Cutter | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
-| 274 | Drake Cutter Scout | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
-| 275 | Drake Cutter Scout | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
-| 276 | Drake Cutter Scout | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
-| 277 | Drake Golem | Goliath ★ | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 278 | Drake Golem | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
-| 279 | Drake Golem | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
-| 280 | Drake Golem | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
-| 281 | Drake Golem | Flood | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
-| 282 | Drake Golem | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
-| 283 | Drake Golem | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 284 | Drake Golem | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
-| 285 | Drake Golem | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
-| 286 | Drake Golem | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
-| 287 | Drake Golem | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
-| 288 | Drake Golem | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
-| 289 | Drake Golem | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
-| 290 | Drake Golem | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
-| 291 | Drake Golem | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
-| 292 | Drake Golem | Expedition | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
-| 293 | Drake Golem | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
-| 294 | Drake Herald | Goliath | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 295 | Drake Herald | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
-| 296 | Drake Herald | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
-| 297 | Drake Herald | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
-| 298 | Drake Herald | Flood | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
-| 299 | Drake Herald | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
-| 300 | Drake Herald | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
-| 301 | Drake Herald | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
-| 302 | Drake Herald | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
-| 303 | Drake Herald | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
-| 304 | Drake Herald | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
-| 305 | Drake Herald | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
-| 306 | Drake Herald | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
-| 307 | Drake Herald | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
-| 308 | Drake Herald | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
-| 309 | Drake Herald | Expedition ★ | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
-| 310 | Drake Herald | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
-| 311 | MISC Reliant Sen | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
-| 312 | MISC Reliant Sen | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
-| 313 | MISC Reliant Sen | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
+| 234 | C.O. Nomad | Goliath | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 235 | C.O. Nomad | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
+| 236 | C.O. Nomad | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
+| 237 | C.O. Nomad | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
+| 238 | C.O. Nomad | Flood | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
+| 239 | C.O. Nomad | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
+| 240 | C.O. Nomad | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 241 | C.O. Nomad | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
+| 242 | C.O. Nomad | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
+| 243 | C.O. Nomad | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
+| 244 | C.O. Nomad | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
+| 245 | C.O. Nomad | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
+| 246 | C.O. Nomad | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
+| 247 | C.O. Nomad | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
+| 248 | C.O. Nomad | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
+| 249 | C.O. Nomad | Expedition ★ | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
+| 250 | C.O. Nomad | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
+| 251 | Drake Clipper | Goliath | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 252 | Drake Clipper | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
+| 253 | Drake Clipper | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
+| 254 | Drake Clipper | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
+| 255 | Drake Clipper | Flood ★ | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
+| 256 | Drake Clipper | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
+| 257 | Drake Clipper | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 258 | Drake Clipper | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
+| 259 | Drake Clipper | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
+| 260 | Drake Clipper | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
+| 261 | Drake Clipper | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
+| 262 | Drake Clipper | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
+| 263 | Drake Clipper | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
+| 264 | Drake Clipper | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
+| 265 | Drake Clipper | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
+| 266 | Drake Clipper | Expedition | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
+| 267 | Drake Clipper | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
+| 268 | Drake Cutter | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
+| 269 | Drake Cutter | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
+| 270 | Drake Cutter | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
+| 271 | Drake Cutter Scout | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
+| 272 | Drake Cutter Scout | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
+| 273 | Drake Cutter Scout | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
+| 274 | Drake Golem | Goliath ★ | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 275 | Drake Golem | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
+| 276 | Drake Golem | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
+| 277 | Drake Golem | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
+| 278 | Drake Golem | Flood | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
+| 279 | Drake Golem | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
+| 280 | Drake Golem | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 281 | Drake Golem | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
+| 282 | Drake Golem | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
+| 283 | Drake Golem | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
+| 284 | Drake Golem | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
+| 285 | Drake Golem | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
+| 286 | Drake Golem | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
+| 287 | Drake Golem | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
+| 288 | Drake Golem | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
+| 289 | Drake Golem | Expedition | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
+| 290 | Drake Golem | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
+| 291 | Drake Herald | Goliath | C | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 292 | Drake Herald | Siren | B | Quantum Drive | 1 | 0.005 | 200.0 | 178 |
+| 293 | Drake Herald | Voyage | B | Quantum Drive | 1 | 0.005 | 200.0 | 208 |
+| 294 | Drake Herald | Eos | C | Quantum Drive | 1 | 0.005 | 200.0 | 199 |
+| 295 | Drake Herald | Flood | D | Quantum Drive | 1 | 0.005 | 200.0 | 188 |
+| 296 | Drake Herald | LightFire | C | Quantum Drive | 1 | 0.005 | 200.0 | 239 |
+| 297 | Drake Herald | Hyperion | B | Quantum Drive | 1 | 0.005 | 200.0 | 219 |
+| 298 | Drake Herald | Atlas | A | Quantum Drive | 1 | 0.005 | 200.0 | 259 |
+| 299 | Drake Herald | FoxFire | B | Quantum Drive | 1 | 0.005 | 200.0 | 263 |
+| 300 | Drake Herald | Burst | B | Quantum Drive | 1 | 0.005 | 200.0 | 230 |
+| 301 | Drake Herald | Beacon | C | Quantum Drive | 1 | 0.005 | 200.0 | 161 |
+| 302 | Drake Herald | Colossus | B | Quantum Drive | 1 | 0.005 | 200.0 | 241 |
+| 303 | Drake Herald | VK-00 | A | Quantum Drive | 1 | 0.005 | 200.0 | 210 |
+| 304 | Drake Herald | Vulcan | D | Quantum Drive | 1 | 0.005 | 200.0 | 197 |
+| 305 | Drake Herald | Wayfare | D | Quantum Drive | 1 | 0.005 | 200.0 | 170 |
+| 306 | Drake Herald | Expedition ★ | C | Quantum Drive | 1 | 0.005 | 200.0 | 189 |
+| 307 | Drake Herald | Rush | C | Quantum Drive | 1 | 0.005 | 200.0 | 209 |
+| 308 | MISC Reliant Sen | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
+| 309 | MISC Reliant Sen | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
+| 310 | MISC Reliant Sen | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
+| 311 | RSI Salvation | Spectre | A | Quantum Drive | 0.8 | 0.004 | 200.0 | 218 |
+| 312 | RSI Salvation | Zephyr | B | Quantum Drive | 0.8 | 0.004 | 200.0 | 184 |
+| 313 | RSI Salvation | Drift | C | Quantum Drive | 0.8 | 0.004 | 200.0 | 167 |
 | 314 | Aegis Eclipse | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
 | 315 | Aegis Eclipse | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
 | 316 | Aegis Eclipse | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
@@ -409,380 +409,380 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 396 | Aegis Sabre Peregrine | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
 | 397 | Aegis Sabre Peregrine | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
 | 398 | Aegis Sabre Peregrine | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 399 | RSI Mantis | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 400 | RSI Mantis | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 401 | RSI Mantis | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 402 | RSI Mantis | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 403 | RSI Mantis | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 404 | RSI Mantis | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 405 | RSI Mantis | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 406 | RSI Mantis | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 407 | RSI Mantis | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 408 | RSI Mantis | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 409 | RSI Mantis | Beacon ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 410 | RSI Mantis | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 411 | RSI Mantis | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 412 | RSI Mantis | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 413 | RSI Mantis | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 414 | RSI Mantis | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 415 | RSI Mantis | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 416 | RSI Meteor | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 417 | RSI Meteor | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 418 | RSI Meteor | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 419 | RSI Meteor | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 420 | RSI Meteor | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 421 | RSI Meteor | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 422 | RSI Meteor | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 423 | RSI Meteor | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 424 | RSI Meteor | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 425 | RSI Meteor | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 426 | RSI Meteor | Beacon ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 427 | RSI Meteor | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 428 | RSI Meteor | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 429 | RSI Meteor | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 430 | RSI Meteor | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 431 | RSI Meteor | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 432 | RSI Meteor | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 433 | RSI Scorpius | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 434 | RSI Scorpius | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 435 | RSI Scorpius | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 436 | RSI Scorpius | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 437 | RSI Scorpius | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 438 | RSI Scorpius | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 439 | RSI Scorpius | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 440 | RSI Scorpius | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 441 | RSI Scorpius | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 442 | RSI Scorpius | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 443 | RSI Scorpius | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 444 | RSI Scorpius | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 445 | RSI Scorpius | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 446 | RSI Scorpius | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 447 | RSI Scorpius | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 448 | RSI Scorpius | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 449 | RSI Scorpius | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 450 | RSI Scorpius Antares | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 451 | RSI Scorpius Antares | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 452 | RSI Scorpius Antares | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 453 | RSI Scorpius Antares | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 454 | RSI Scorpius Antares | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 455 | RSI Scorpius Antares | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 456 | RSI Scorpius Antares | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 457 | RSI Scorpius Antares | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 458 | RSI Scorpius Antares | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 459 | RSI Scorpius Antares | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 460 | RSI Scorpius Antares | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 461 | RSI Scorpius Antares | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 462 | RSI Scorpius Antares | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 463 | RSI Scorpius Antares | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 464 | RSI Scorpius Antares | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 465 | RSI Scorpius Antares | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 466 | RSI Scorpius Antares | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 467 | Anvil C8 Pisces | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 468 | Anvil C8 Pisces | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 469 | Anvil C8 Pisces | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 470 | Anvil C8 Pisces | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 471 | Anvil C8 Pisces | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 472 | Anvil C8 Pisces | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 473 | Anvil C8 Pisces | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 474 | Anvil C8 Pisces | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 475 | Anvil C8 Pisces | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 476 | Anvil C8 Pisces | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 477 | Anvil C8 Pisces | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 478 | Anvil C8 Pisces | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 479 | Anvil C8 Pisces | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 480 | Anvil C8 Pisces | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 481 | Anvil C8 Pisces | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 482 | Anvil C8 Pisces | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 483 | Anvil C8 Pisces | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 484 | Anvil C8R Pisces Rescue | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 485 | Anvil C8R Pisces Rescue | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 486 | Anvil C8R Pisces Rescue | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 487 | Anvil C8R Pisces Rescue | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 488 | Anvil C8R Pisces Rescue | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 489 | Anvil C8R Pisces Rescue | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 490 | Anvil C8R Pisces Rescue | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 491 | Anvil C8R Pisces Rescue | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 492 | Anvil C8R Pisces Rescue | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 493 | Anvil C8R Pisces Rescue | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 494 | Anvil C8R Pisces Rescue | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 495 | Anvil C8R Pisces Rescue | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 496 | Anvil C8R Pisces Rescue | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 497 | Anvil C8R Pisces Rescue | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 498 | Anvil C8R Pisces Rescue | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 499 | Anvil C8R Pisces Rescue | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 500 | Anvil C8R Pisces Rescue | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 501 | Anvil C8X Pisces Expedition | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 502 | Anvil C8X Pisces Expedition | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 503 | Anvil C8X Pisces Expedition | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 504 | Anvil C8X Pisces Expedition | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 505 | Anvil C8X Pisces Expedition | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 506 | Anvil C8X Pisces Expedition | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 507 | Anvil C8X Pisces Expedition | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 508 | Anvil C8X Pisces Expedition | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 509 | Anvil C8X Pisces Expedition | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 510 | Anvil C8X Pisces Expedition | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 511 | Anvil C8X Pisces Expedition | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 512 | Anvil C8X Pisces Expedition | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 513 | Anvil C8X Pisces Expedition | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 514 | Anvil C8X Pisces Expedition | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 515 | Anvil C8X Pisces Expedition | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 516 | Anvil C8X Pisces Expedition | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 517 | Anvil C8X Pisces Expedition | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 518 | Anvil F7C Hornet Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 519 | Anvil F7C Hornet Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 520 | Anvil F7C Hornet Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 521 | Anvil F7C Hornet Mk II | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 522 | Anvil F7C Hornet Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 523 | Anvil F7C Hornet Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 524 | Anvil F7C Hornet Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 525 | Anvil F7C Hornet Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 526 | Anvil F7C Hornet Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 527 | Anvil F7C Hornet Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 528 | Anvil F7C Hornet Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 529 | Anvil F7C Hornet Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 530 | Anvil F7C Hornet Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 531 | Anvil F7C Hornet Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 532 | Anvil F7C Hornet Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 533 | Anvil F7C Hornet Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 534 | Anvil F7C Hornet Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 535 | Anvil F7C-R Hornet Tracker Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 536 | Anvil F7C-R Hornet Tracker Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 537 | Anvil F7C-R Hornet Tracker Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 538 | Anvil F7C-R Hornet Tracker Mk II | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 539 | Anvil F7C-R Hornet Tracker Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 540 | Anvil F7C-R Hornet Tracker Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 541 | Anvil F7C-R Hornet Tracker Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 542 | Anvil F7C-R Hornet Tracker Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 543 | Anvil F7C-R Hornet Tracker Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 544 | Anvil F7C-R Hornet Tracker Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 545 | Anvil F7C-R Hornet Tracker Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 546 | Anvil F7C-R Hornet Tracker Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 547 | Anvil F7C-R Hornet Tracker Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 548 | Anvil F7C-R Hornet Tracker Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 549 | Anvil F7C-R Hornet Tracker Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 550 | Anvil F7C-R Hornet Tracker Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 551 | Anvil F7C-R Hornet Tracker Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 552 | Anvil F7C-S Hornet Ghost Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 553 | Anvil F7C-S Hornet Ghost Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 554 | Anvil F7C-S Hornet Ghost Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 555 | Anvil F7C-S Hornet Ghost Mk II | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 556 | Anvil F7C-S Hornet Ghost Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 557 | Anvil F7C-S Hornet Ghost Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 558 | Anvil F7C-S Hornet Ghost Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 559 | Anvil F7C-S Hornet Ghost Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 560 | Anvil F7C-S Hornet Ghost Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 561 | Anvil F7C-S Hornet Ghost Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 562 | Anvil F7C-S Hornet Ghost Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 563 | Anvil F7C-S Hornet Ghost Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 564 | Anvil F7C-S Hornet Ghost Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 565 | Anvil F7C-S Hornet Ghost Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 566 | Anvil F7C-S Hornet Ghost Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 567 | Anvil F7C-S Hornet Ghost Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 568 | Anvil F7C-S Hornet Ghost Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 569 | Anvil Hurricane | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 570 | Anvil Hurricane | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 571 | Anvil Hurricane | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 572 | Anvil Hurricane | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 573 | Anvil Hurricane | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 574 | Anvil Hurricane | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 575 | Anvil Hurricane | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 576 | Anvil Hurricane | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 577 | Anvil Hurricane | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 578 | Anvil Hurricane | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 579 | Anvil Hurricane | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 580 | Anvil Hurricane | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 581 | Anvil Hurricane | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 582 | Anvil Hurricane | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 583 | Anvil Hurricane | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 584 | Anvil Hurricane | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 585 | Anvil Hurricane | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 586 | Aopoa San'tok.yāi | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 587 | Aopoa San'tok.yāi | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 588 | Aopoa San'tok.yāi | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 589 | Aopoa San'tok.yāi | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 590 | Aopoa San'tok.yāi | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 591 | Aopoa San'tok.yāi | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 592 | Aopoa San'tok.yāi | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 593 | Aopoa San'tok.yāi | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 594 | Aopoa San'tok.yāi | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 595 | Aopoa San'tok.yāi | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 596 | Aopoa San'tok.yāi | Beacon ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 597 | Aopoa San'tok.yāi | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 598 | Aopoa San'tok.yāi | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 599 | Aopoa San'tok.yāi | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 600 | Aopoa San'tok.yāi | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 601 | Aopoa San'tok.yāi | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 602 | Aopoa San'tok.yāi | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 603 | Crusader Intrepid | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 604 | Crusader Intrepid | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 605 | Crusader Intrepid | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 606 | Crusader Intrepid | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 607 | Crusader Intrepid | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 608 | Crusader Intrepid | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 609 | Crusader Intrepid | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 610 | Crusader Intrepid | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 611 | Crusader Intrepid | FoxFire ★ | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 612 | Crusader Intrepid | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 613 | Crusader Intrepid | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 614 | Crusader Intrepid | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 615 | Crusader Intrepid | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 616 | Crusader Intrepid | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 617 | Crusader Intrepid | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 618 | Crusader Intrepid | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 619 | Crusader Intrepid | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 620 | Drake Vulture | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 621 | Drake Vulture | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 622 | Drake Vulture | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 623 | Drake Vulture | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 624 | Drake Vulture | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 625 | Drake Vulture | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 626 | Drake Vulture | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 627 | Drake Vulture | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 628 | Drake Vulture | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 629 | Drake Vulture | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 630 | Drake Vulture | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 631 | Drake Vulture | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 632 | Drake Vulture | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 633 | Drake Vulture | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 634 | Drake Vulture | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 635 | Drake Vulture | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 636 | Drake Vulture | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 637 | Gatac Syulen | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 638 | Gatac Syulen | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 639 | Gatac Syulen | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 640 | Gatac Syulen | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 641 | Gatac Syulen | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 642 | Gatac Syulen | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 643 | Gatac Syulen | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 644 | Gatac Syulen | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 645 | Gatac Syulen | FoxFire ★ | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 646 | Gatac Syulen | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 647 | Gatac Syulen | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 648 | Gatac Syulen | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 649 | Gatac Syulen | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 650 | Gatac Syulen | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 651 | Gatac Syulen | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 652 | Gatac Syulen | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 653 | Gatac Syulen | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 654 | MISC Fortune | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 655 | MISC Fortune | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 656 | MISC Fortune | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 657 | MISC Fortune | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 658 | MISC Fortune | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 659 | MISC Fortune | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 660 | MISC Fortune | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 661 | MISC Fortune | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 662 | MISC Fortune | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 663 | MISC Fortune | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 664 | MISC Fortune | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 665 | MISC Fortune | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 666 | MISC Fortune | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 667 | MISC Fortune | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 668 | MISC Fortune | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 669 | MISC Fortune | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 670 | MISC Fortune | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 671 | MISC Prospector | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 672 | MISC Prospector | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 673 | MISC Prospector | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 674 | MISC Prospector | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 675 | MISC Prospector | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 676 | MISC Prospector | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 677 | MISC Prospector | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 678 | MISC Prospector | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 679 | MISC Prospector | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 680 | MISC Prospector | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 681 | MISC Prospector | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 682 | MISC Prospector | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 683 | MISC Prospector | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 684 | MISC Prospector | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 685 | MISC Prospector | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 686 | MISC Prospector | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 687 | MISC Prospector | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 688 | Origin 100i | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 689 | Origin 100i | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 690 | Origin 100i | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 691 | Origin 100i | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 692 | Origin 100i | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 693 | Origin 100i | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 694 | Origin 100i | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 695 | Origin 100i | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 696 | Origin 100i | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 697 | Origin 100i | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 698 | Origin 100i | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 699 | Origin 100i | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 700 | Origin 100i | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 701 | Origin 100i | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 702 | Origin 100i | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 703 | Origin 100i | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 704 | Origin 100i | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 705 | Origin 125a | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 706 | Origin 125a | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 707 | Origin 125a | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 708 | Origin 125a | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 709 | Origin 125a | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 710 | Origin 125a | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 711 | Origin 125a | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 712 | Origin 125a | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 713 | Origin 125a | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 714 | Origin 125a | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 715 | Origin 125a | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 716 | Origin 125a | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 717 | Origin 125a | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 718 | Origin 125a | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 719 | Origin 125a | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 720 | Origin 125a | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 721 | Origin 125a | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 722 | Origin 135c | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 723 | Origin 135c | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 724 | Origin 135c | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 725 | Origin 135c | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 726 | Origin 135c | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 727 | Origin 135c | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 728 | Origin 135c | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 729 | Origin 135c | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 730 | Origin 135c | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 731 | Origin 135c | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 732 | Origin 135c | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 733 | Origin 135c | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 734 | Origin 135c | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 735 | Origin 135c | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 736 | Origin 135c | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 737 | Origin 135c | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 738 | Origin 135c | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 739 | Origin 315p | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 740 | Origin 315p | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 741 | Origin 315p | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 742 | Origin 315p | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 743 | Origin 315p | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 744 | Origin 315p | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 745 | Origin 315p | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 746 | Origin 315p | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 747 | Origin 315p | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 748 | Origin 315p | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 749 | Origin 315p | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 750 | Origin 315p | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 751 | Origin 315p | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 752 | Origin 315p | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 753 | Origin 315p | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 754 | Origin 315p | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 755 | Origin 315p | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
-| 756 | RSI Aurora Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 757 | RSI Aurora Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
-| 758 | RSI Aurora Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
-| 759 | RSI Aurora Mk II | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
-| 760 | RSI Aurora Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
-| 761 | RSI Aurora Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
-| 762 | RSI Aurora Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
-| 763 | RSI Aurora Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
-| 764 | RSI Aurora Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
-| 765 | RSI Aurora Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
-| 766 | RSI Aurora Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
-| 767 | RSI Aurora Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
-| 768 | RSI Aurora Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
-| 769 | RSI Aurora Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
-| 770 | RSI Aurora Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
-| 771 | RSI Aurora Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
-| 772 | RSI Aurora Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 399 | Anvil C8 Pisces | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 400 | Anvil C8 Pisces | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 401 | Anvil C8 Pisces | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 402 | Anvil C8 Pisces | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 403 | Anvil C8 Pisces | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 404 | Anvil C8 Pisces | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 405 | Anvil C8 Pisces | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 406 | Anvil C8 Pisces | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 407 | Anvil C8 Pisces | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 408 | Anvil C8 Pisces | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 409 | Anvil C8 Pisces | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 410 | Anvil C8 Pisces | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 411 | Anvil C8 Pisces | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 412 | Anvil C8 Pisces | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 413 | Anvil C8 Pisces | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 414 | Anvil C8 Pisces | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 415 | Anvil C8 Pisces | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 416 | Anvil C8R Pisces Rescue | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 417 | Anvil C8R Pisces Rescue | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 418 | Anvil C8R Pisces Rescue | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 419 | Anvil C8R Pisces Rescue | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 420 | Anvil C8R Pisces Rescue | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 421 | Anvil C8R Pisces Rescue | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 422 | Anvil C8R Pisces Rescue | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 423 | Anvil C8R Pisces Rescue | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 424 | Anvil C8R Pisces Rescue | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 425 | Anvil C8R Pisces Rescue | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 426 | Anvil C8R Pisces Rescue | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 427 | Anvil C8R Pisces Rescue | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 428 | Anvil C8R Pisces Rescue | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 429 | Anvil C8R Pisces Rescue | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 430 | Anvil C8R Pisces Rescue | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 431 | Anvil C8R Pisces Rescue | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 432 | Anvil C8R Pisces Rescue | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 433 | Anvil C8X Pisces Expedition | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 434 | Anvil C8X Pisces Expedition | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 435 | Anvil C8X Pisces Expedition | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 436 | Anvil C8X Pisces Expedition | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 437 | Anvil C8X Pisces Expedition | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 438 | Anvil C8X Pisces Expedition | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 439 | Anvil C8X Pisces Expedition | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 440 | Anvil C8X Pisces Expedition | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 441 | Anvil C8X Pisces Expedition | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 442 | Anvil C8X Pisces Expedition | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 443 | Anvil C8X Pisces Expedition | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 444 | Anvil C8X Pisces Expedition | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 445 | Anvil C8X Pisces Expedition | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 446 | Anvil C8X Pisces Expedition | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 447 | Anvil C8X Pisces Expedition | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 448 | Anvil C8X Pisces Expedition | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 449 | Anvil C8X Pisces Expedition | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 450 | Anvil F7C Hornet Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 451 | Anvil F7C Hornet Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 452 | Anvil F7C Hornet Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 453 | Anvil F7C Hornet Mk II | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 454 | Anvil F7C Hornet Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 455 | Anvil F7C Hornet Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 456 | Anvil F7C Hornet Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 457 | Anvil F7C Hornet Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 458 | Anvil F7C Hornet Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 459 | Anvil F7C Hornet Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 460 | Anvil F7C Hornet Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 461 | Anvil F7C Hornet Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 462 | Anvil F7C Hornet Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 463 | Anvil F7C Hornet Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 464 | Anvil F7C Hornet Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 465 | Anvil F7C Hornet Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 466 | Anvil F7C Hornet Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 467 | Anvil F7C-R Hornet Tracker Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 468 | Anvil F7C-R Hornet Tracker Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 469 | Anvil F7C-R Hornet Tracker Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 470 | Anvil F7C-R Hornet Tracker Mk II | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 471 | Anvil F7C-R Hornet Tracker Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 472 | Anvil F7C-R Hornet Tracker Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 473 | Anvil F7C-R Hornet Tracker Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 474 | Anvil F7C-R Hornet Tracker Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 475 | Anvil F7C-R Hornet Tracker Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 476 | Anvil F7C-R Hornet Tracker Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 477 | Anvil F7C-R Hornet Tracker Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 478 | Anvil F7C-R Hornet Tracker Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 479 | Anvil F7C-R Hornet Tracker Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 480 | Anvil F7C-R Hornet Tracker Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 481 | Anvil F7C-R Hornet Tracker Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 482 | Anvil F7C-R Hornet Tracker Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 483 | Anvil F7C-R Hornet Tracker Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 484 | Anvil F7C-S Hornet Ghost Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 485 | Anvil F7C-S Hornet Ghost Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 486 | Anvil F7C-S Hornet Ghost Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 487 | Anvil F7C-S Hornet Ghost Mk II | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 488 | Anvil F7C-S Hornet Ghost Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 489 | Anvil F7C-S Hornet Ghost Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 490 | Anvil F7C-S Hornet Ghost Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 491 | Anvil F7C-S Hornet Ghost Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 492 | Anvil F7C-S Hornet Ghost Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 493 | Anvil F7C-S Hornet Ghost Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 494 | Anvil F7C-S Hornet Ghost Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 495 | Anvil F7C-S Hornet Ghost Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 496 | Anvil F7C-S Hornet Ghost Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 497 | Anvil F7C-S Hornet Ghost Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 498 | Anvil F7C-S Hornet Ghost Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 499 | Anvil F7C-S Hornet Ghost Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 500 | Anvil F7C-S Hornet Ghost Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 501 | Anvil Hurricane | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 502 | Anvil Hurricane | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 503 | Anvil Hurricane | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 504 | Anvil Hurricane | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 505 | Anvil Hurricane | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 506 | Anvil Hurricane | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 507 | Anvil Hurricane | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 508 | Anvil Hurricane | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 509 | Anvil Hurricane | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 510 | Anvil Hurricane | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 511 | Anvil Hurricane | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 512 | Anvil Hurricane | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 513 | Anvil Hurricane | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 514 | Anvil Hurricane | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 515 | Anvil Hurricane | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 516 | Anvil Hurricane | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 517 | Anvil Hurricane | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 518 | Aopoa San'tok.yāi | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 519 | Aopoa San'tok.yāi | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 520 | Aopoa San'tok.yāi | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 521 | Aopoa San'tok.yāi | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 522 | Aopoa San'tok.yāi | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 523 | Aopoa San'tok.yāi | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 524 | Aopoa San'tok.yāi | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 525 | Aopoa San'tok.yāi | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 526 | Aopoa San'tok.yāi | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 527 | Aopoa San'tok.yāi | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 528 | Aopoa San'tok.yāi | Beacon ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 529 | Aopoa San'tok.yāi | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 530 | Aopoa San'tok.yāi | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 531 | Aopoa San'tok.yāi | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 532 | Aopoa San'tok.yāi | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 533 | Aopoa San'tok.yāi | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 534 | Aopoa San'tok.yāi | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 535 | Crusader Intrepid | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 536 | Crusader Intrepid | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 537 | Crusader Intrepid | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 538 | Crusader Intrepid | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 539 | Crusader Intrepid | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 540 | Crusader Intrepid | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 541 | Crusader Intrepid | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 542 | Crusader Intrepid | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 543 | Crusader Intrepid | FoxFire ★ | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 544 | Crusader Intrepid | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 545 | Crusader Intrepid | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 546 | Crusader Intrepid | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 547 | Crusader Intrepid | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 548 | Crusader Intrepid | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 549 | Crusader Intrepid | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 550 | Crusader Intrepid | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 551 | Crusader Intrepid | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 552 | Drake Vulture | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 553 | Drake Vulture | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 554 | Drake Vulture | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 555 | Drake Vulture | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 556 | Drake Vulture | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 557 | Drake Vulture | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 558 | Drake Vulture | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 559 | Drake Vulture | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 560 | Drake Vulture | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 561 | Drake Vulture | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 562 | Drake Vulture | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 563 | Drake Vulture | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 564 | Drake Vulture | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 565 | Drake Vulture | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 566 | Drake Vulture | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 567 | Drake Vulture | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 568 | Drake Vulture | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 569 | Gatac Syulen | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 570 | Gatac Syulen | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 571 | Gatac Syulen | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 572 | Gatac Syulen | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 573 | Gatac Syulen | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 574 | Gatac Syulen | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 575 | Gatac Syulen | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 576 | Gatac Syulen | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 577 | Gatac Syulen | FoxFire ★ | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 578 | Gatac Syulen | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 579 | Gatac Syulen | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 580 | Gatac Syulen | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 581 | Gatac Syulen | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 582 | Gatac Syulen | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 583 | Gatac Syulen | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 584 | Gatac Syulen | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 585 | Gatac Syulen | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 586 | MISC Fortune | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 587 | MISC Fortune | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 588 | MISC Fortune | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 589 | MISC Fortune | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 590 | MISC Fortune | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 591 | MISC Fortune | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 592 | MISC Fortune | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 593 | MISC Fortune | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 594 | MISC Fortune | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 595 | MISC Fortune | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 596 | MISC Fortune | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 597 | MISC Fortune | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 598 | MISC Fortune | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 599 | MISC Fortune | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 600 | MISC Fortune | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 601 | MISC Fortune | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 602 | MISC Fortune | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 603 | MISC Prospector | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 604 | MISC Prospector | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 605 | MISC Prospector | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 606 | MISC Prospector | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 607 | MISC Prospector | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 608 | MISC Prospector | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 609 | MISC Prospector | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 610 | MISC Prospector | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 611 | MISC Prospector | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 612 | MISC Prospector | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 613 | MISC Prospector | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 614 | MISC Prospector | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 615 | MISC Prospector | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 616 | MISC Prospector | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 617 | MISC Prospector | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 618 | MISC Prospector | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 619 | MISC Prospector | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 620 | Origin 100i | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 621 | Origin 100i | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 622 | Origin 100i | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 623 | Origin 100i | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 624 | Origin 100i | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 625 | Origin 100i | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 626 | Origin 100i | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 627 | Origin 100i | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 628 | Origin 100i | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 629 | Origin 100i | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 630 | Origin 100i | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 631 | Origin 100i | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 632 | Origin 100i | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 633 | Origin 100i | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 634 | Origin 100i | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 635 | Origin 100i | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 636 | Origin 100i | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 637 | Origin 125a | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 638 | Origin 125a | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 639 | Origin 125a | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 640 | Origin 125a | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 641 | Origin 125a | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 642 | Origin 125a | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 643 | Origin 125a | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 644 | Origin 125a | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 645 | Origin 125a | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 646 | Origin 125a | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 647 | Origin 125a | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 648 | Origin 125a | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 649 | Origin 125a | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 650 | Origin 125a | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 651 | Origin 125a | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 652 | Origin 125a | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 653 | Origin 125a | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 654 | Origin 135c | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 655 | Origin 135c | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 656 | Origin 135c | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 657 | Origin 135c | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 658 | Origin 135c | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 659 | Origin 135c | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 660 | Origin 135c | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 661 | Origin 135c | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 662 | Origin 135c | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 663 | Origin 135c | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 664 | Origin 135c | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 665 | Origin 135c | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 666 | Origin 135c | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 667 | Origin 135c | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 668 | Origin 135c | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 669 | Origin 135c | Expedition ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 670 | Origin 135c | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 671 | Origin 315p | Goliath ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 672 | Origin 315p | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 673 | Origin 315p | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 674 | Origin 315p | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 675 | Origin 315p | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 676 | Origin 315p | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 677 | Origin 315p | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 678 | Origin 315p | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 679 | Origin 315p | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 680 | Origin 315p | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 681 | Origin 315p | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 682 | Origin 315p | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 683 | Origin 315p | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 684 | Origin 315p | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 685 | Origin 315p | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 686 | Origin 315p | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 687 | Origin 315p | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 688 | RSI Aurora Mk II | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 689 | RSI Aurora Mk II | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 690 | RSI Aurora Mk II | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 691 | RSI Aurora Mk II | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 692 | RSI Aurora Mk II | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 693 | RSI Aurora Mk II | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 694 | RSI Aurora Mk II | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 695 | RSI Aurora Mk II | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 696 | RSI Aurora Mk II | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 697 | RSI Aurora Mk II | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 698 | RSI Aurora Mk II | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 699 | RSI Aurora Mk II | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 700 | RSI Aurora Mk II | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 701 | RSI Aurora Mk II | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 702 | RSI Aurora Mk II | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 703 | RSI Aurora Mk II | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 704 | RSI Aurora Mk II | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 705 | RSI Mantis | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 706 | RSI Mantis | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 707 | RSI Mantis | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 708 | RSI Mantis | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 709 | RSI Mantis | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 710 | RSI Mantis | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 711 | RSI Mantis | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 712 | RSI Mantis | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 713 | RSI Mantis | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 714 | RSI Mantis | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 715 | RSI Mantis | Beacon ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 716 | RSI Mantis | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 717 | RSI Mantis | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 718 | RSI Mantis | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 719 | RSI Mantis | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 720 | RSI Mantis | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 721 | RSI Mantis | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 722 | RSI Meteor | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 723 | RSI Meteor | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 724 | RSI Meteor | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 725 | RSI Meteor | Eos | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 726 | RSI Meteor | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 727 | RSI Meteor | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 728 | RSI Meteor | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 729 | RSI Meteor | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 730 | RSI Meteor | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 731 | RSI Meteor | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 732 | RSI Meteor | Beacon ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 733 | RSI Meteor | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 734 | RSI Meteor | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 735 | RSI Meteor | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 736 | RSI Meteor | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 737 | RSI Meteor | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 738 | RSI Meteor | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 739 | RSI Scorpius | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 740 | RSI Scorpius | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 741 | RSI Scorpius | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 742 | RSI Scorpius | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 743 | RSI Scorpius | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 744 | RSI Scorpius | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 745 | RSI Scorpius | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 746 | RSI Scorpius | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 747 | RSI Scorpius | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 748 | RSI Scorpius | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 749 | RSI Scorpius | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 750 | RSI Scorpius | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 751 | RSI Scorpius | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 752 | RSI Scorpius | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 753 | RSI Scorpius | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 754 | RSI Scorpius | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 755 | RSI Scorpius | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
+| 756 | RSI Scorpius Antares | Goliath | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 757 | RSI Scorpius Antares | Siren | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 178 |
+| 758 | RSI Scorpius Antares | Voyage | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 208 |
+| 759 | RSI Scorpius Antares | Eos ★ | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 199 |
+| 760 | RSI Scorpius Antares | Flood | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 188 |
+| 761 | RSI Scorpius Antares | LightFire | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 239 |
+| 762 | RSI Scorpius Antares | Hyperion | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 219 |
+| 763 | RSI Scorpius Antares | Atlas | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 259 |
+| 764 | RSI Scorpius Antares | FoxFire | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 263 |
+| 765 | RSI Scorpius Antares | Burst | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 230 |
+| 766 | RSI Scorpius Antares | Beacon | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 161 |
+| 767 | RSI Scorpius Antares | Colossus | B | Quantum Drive | 0.9 | 0.005 | 180.0 | 241 |
+| 768 | RSI Scorpius Antares | VK-00 | A | Quantum Drive | 0.9 | 0.005 | 180.0 | 210 |
+| 769 | RSI Scorpius Antares | Vulcan | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 197 |
+| 770 | RSI Scorpius Antares | Wayfare | D | Quantum Drive | 0.9 | 0.005 | 180.0 | 170 |
+| 771 | RSI Scorpius Antares | Expedition | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 189 |
+| 772 | RSI Scorpius Antares | Rush | C | Quantum Drive | 0.9 | 0.005 | 180.0 | 209 |
 | 773 | C.O. Mustang Beta | Spectre | A | Quantum Drive | 0.7 | 0.004 | 175.0 | 218 |
 | 774 | C.O. Mustang Beta | Zephyr | B | Quantum Drive | 0.7 | 0.004 | 175.0 | 184 |
 | 775 | C.O. Mustang Beta | Drift | C | Quantum Drive | 0.7 | 0.004 | 175.0 | 167 |
@@ -804,74 +804,74 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 791 | Origin 325a | Spectre | A | Quantum Drive | 0.7 | 0.004 | 175.0 | 218 |
 | 792 | Origin 325a | Zephyr | B | Quantum Drive | 0.7 | 0.004 | 175.0 | 184 |
 | 793 | Origin 325a | Drift | C | Quantum Drive | 0.7 | 0.004 | 175.0 | 167 |
-| 794 | RSI Salvation | Goliath | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 795 | RSI Salvation | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
-| 796 | RSI Salvation | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
-| 797 | RSI Salvation | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
-| 798 | RSI Salvation | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
-| 799 | RSI Salvation | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
-| 800 | RSI Salvation | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 801 | RSI Salvation | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
-| 802 | RSI Salvation | FoxFire | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
-| 803 | RSI Salvation | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
-| 804 | RSI Salvation | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
-| 805 | RSI Salvation | Colossus ★ | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
-| 806 | RSI Salvation | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
-| 807 | RSI Salvation | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
-| 808 | RSI Salvation | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
-| 809 | RSI Salvation | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
-| 810 | RSI Salvation | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
-| 811 | Drake Cutter | Goliath | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 812 | Drake Cutter | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
-| 813 | Drake Cutter | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
-| 814 | Drake Cutter | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
-| 815 | Drake Cutter | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
-| 816 | Drake Cutter | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
-| 817 | Drake Cutter | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 818 | Drake Cutter | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
-| 819 | Drake Cutter | FoxFire ★ | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
-| 820 | Drake Cutter | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
-| 821 | Drake Cutter | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
-| 822 | Drake Cutter | Colossus | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
-| 823 | Drake Cutter | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
-| 824 | Drake Cutter | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
-| 825 | Drake Cutter | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
-| 826 | Drake Cutter | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
-| 827 | Drake Cutter | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
-| 828 | Drake Cutter Scout | Goliath | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 829 | Drake Cutter Scout | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
-| 830 | Drake Cutter Scout | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
-| 831 | Drake Cutter Scout | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
-| 832 | Drake Cutter Scout | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
-| 833 | Drake Cutter Scout | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
-| 834 | Drake Cutter Scout | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 835 | Drake Cutter Scout | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
-| 836 | Drake Cutter Scout | FoxFire ★ | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
-| 837 | Drake Cutter Scout | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
-| 838 | Drake Cutter Scout | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
-| 839 | Drake Cutter Scout | Colossus | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
-| 840 | Drake Cutter Scout | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
-| 841 | Drake Cutter Scout | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
-| 842 | Drake Cutter Scout | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
-| 843 | Drake Cutter Scout | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
-| 844 | Drake Cutter Scout | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
-| 845 | MISC Reliant Sen | Goliath ★ | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 846 | MISC Reliant Sen | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
-| 847 | MISC Reliant Sen | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
-| 848 | MISC Reliant Sen | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
-| 849 | MISC Reliant Sen | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
-| 850 | MISC Reliant Sen | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
-| 851 | MISC Reliant Sen | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
-| 852 | MISC Reliant Sen | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
-| 853 | MISC Reliant Sen | FoxFire | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
-| 854 | MISC Reliant Sen | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
-| 855 | MISC Reliant Sen | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
-| 856 | MISC Reliant Sen | Colossus | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
-| 857 | MISC Reliant Sen | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
-| 858 | MISC Reliant Sen | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
-| 859 | MISC Reliant Sen | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
-| 860 | MISC Reliant Sen | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
-| 861 | MISC Reliant Sen | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
+| 794 | Drake Cutter | Goliath | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 795 | Drake Cutter | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
+| 796 | Drake Cutter | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
+| 797 | Drake Cutter | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
+| 798 | Drake Cutter | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
+| 799 | Drake Cutter | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
+| 800 | Drake Cutter | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 801 | Drake Cutter | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
+| 802 | Drake Cutter | FoxFire ★ | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
+| 803 | Drake Cutter | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
+| 804 | Drake Cutter | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
+| 805 | Drake Cutter | Colossus | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
+| 806 | Drake Cutter | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
+| 807 | Drake Cutter | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
+| 808 | Drake Cutter | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
+| 809 | Drake Cutter | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
+| 810 | Drake Cutter | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
+| 811 | Drake Cutter Scout | Goliath | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 812 | Drake Cutter Scout | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
+| 813 | Drake Cutter Scout | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
+| 814 | Drake Cutter Scout | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
+| 815 | Drake Cutter Scout | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
+| 816 | Drake Cutter Scout | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
+| 817 | Drake Cutter Scout | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 818 | Drake Cutter Scout | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
+| 819 | Drake Cutter Scout | FoxFire ★ | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
+| 820 | Drake Cutter Scout | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
+| 821 | Drake Cutter Scout | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
+| 822 | Drake Cutter Scout | Colossus | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
+| 823 | Drake Cutter Scout | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
+| 824 | Drake Cutter Scout | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
+| 825 | Drake Cutter Scout | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
+| 826 | Drake Cutter Scout | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
+| 827 | Drake Cutter Scout | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
+| 828 | MISC Reliant Sen | Goliath ★ | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 829 | MISC Reliant Sen | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
+| 830 | MISC Reliant Sen | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
+| 831 | MISC Reliant Sen | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
+| 832 | MISC Reliant Sen | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
+| 833 | MISC Reliant Sen | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
+| 834 | MISC Reliant Sen | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 835 | MISC Reliant Sen | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
+| 836 | MISC Reliant Sen | FoxFire | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
+| 837 | MISC Reliant Sen | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
+| 838 | MISC Reliant Sen | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
+| 839 | MISC Reliant Sen | Colossus | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
+| 840 | MISC Reliant Sen | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
+| 841 | MISC Reliant Sen | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
+| 842 | MISC Reliant Sen | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
+| 843 | MISC Reliant Sen | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
+| 844 | MISC Reliant Sen | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
+| 845 | RSI Salvation | Goliath | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 846 | RSI Salvation | Siren | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 178 |
+| 847 | RSI Salvation | Voyage | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 208 |
+| 848 | RSI Salvation | Eos | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 199 |
+| 849 | RSI Salvation | Flood | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 188 |
+| 850 | RSI Salvation | LightFire | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 239 |
+| 851 | RSI Salvation | Hyperion | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 219 |
+| 852 | RSI Salvation | Atlas | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 259 |
+| 853 | RSI Salvation | FoxFire | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 263 |
+| 854 | RSI Salvation | Burst | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 230 |
+| 855 | RSI Salvation | Beacon | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 161 |
+| 856 | RSI Salvation | Colossus ★ | B | Quantum Drive | 0.8 | 0.005 | 160.0 | 241 |
+| 857 | RSI Salvation | VK-00 | A | Quantum Drive | 0.8 | 0.005 | 160.0 | 210 |
+| 858 | RSI Salvation | Vulcan | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 197 |
+| 859 | RSI Salvation | Wayfare | D | Quantum Drive | 0.8 | 0.005 | 160.0 | 170 |
+| 860 | RSI Salvation | Expedition | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 189 |
+| 861 | RSI Salvation | Rush | C | Quantum Drive | 0.8 | 0.005 | 160.0 | 209 |
 | 862 | Aegis Avenger Stalker | Spectre | A | Quantum Drive | 0.6 | 0.004 | 150.0 | 218 |
 | 863 | Aegis Avenger Stalker | Zephyr | B | Quantum Drive | 0.6 | 0.004 | 150.0 | 184 |
 | 864 | Aegis Avenger Stalker | Drift | C | Quantum Drive | 0.6 | 0.004 | 150.0 | 167 |
@@ -1462,15 +1462,15 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 4 | Origin 600i Touring | Nova | C | Quantum Drive | 9.9 | 0.018 | 550.0 | 211 |
 | 5 | Origin 600i Touring | Spicule | A | Quantum Drive | 9.9 | 0.018 | 550.0 | 274 |
 | 6 | Origin 600i Touring | Bolt | B | Quantum Drive | 9.9 | 0.018 | 550.0 | 232 |
-| 7 | RSI Hermes | Nova | C | Quantum Drive | 9.4 | 0.018 | 522.2 | 211 |
-| 8 | RSI Hermes | Spicule | A | Quantum Drive | 9.4 | 0.018 | 522.2 | 274 |
-| 9 | RSI Hermes | Bolt | B | Quantum Drive | 9.4 | 0.018 | 522.2 | 232 |
-| 10 | RSI Apollo Medivac | Nova | C | Quantum Drive | 9.4 | 0.018 | 522.2 | 211 |
-| 11 | RSI Apollo Medivac | Spicule | A | Quantum Drive | 9.4 | 0.018 | 522.2 | 274 |
-| 12 | RSI Apollo Medivac | Bolt | B | Quantum Drive | 9.4 | 0.018 | 522.2 | 232 |
-| 13 | RSI Apollo Triage | Nova | C | Quantum Drive | 9.4 | 0.018 | 522.2 | 211 |
-| 14 | RSI Apollo Triage | Spicule | A | Quantum Drive | 9.4 | 0.018 | 522.2 | 274 |
-| 15 | RSI Apollo Triage | Bolt | B | Quantum Drive | 9.4 | 0.018 | 522.2 | 232 |
+| 7 | RSI Apollo Medivac | Nova | C | Quantum Drive | 9.4 | 0.018 | 522.2 | 211 |
+| 8 | RSI Apollo Medivac | Spicule | A | Quantum Drive | 9.4 | 0.018 | 522.2 | 274 |
+| 9 | RSI Apollo Medivac | Bolt | B | Quantum Drive | 9.4 | 0.018 | 522.2 | 232 |
+| 10 | RSI Apollo Triage | Nova | C | Quantum Drive | 9.4 | 0.018 | 522.2 | 211 |
+| 11 | RSI Apollo Triage | Spicule | A | Quantum Drive | 9.4 | 0.018 | 522.2 | 274 |
+| 12 | RSI Apollo Triage | Bolt | B | Quantum Drive | 9.4 | 0.018 | 522.2 | 232 |
+| 13 | RSI Hermes | Nova | C | Quantum Drive | 9.4 | 0.018 | 522.2 | 211 |
+| 14 | RSI Hermes | Spicule | A | Quantum Drive | 9.4 | 0.018 | 522.2 | 274 |
+| 15 | RSI Hermes | Bolt | B | Quantum Drive | 9.4 | 0.018 | 522.2 | 232 |
 | 16 | Origin 600i | Yaluk | D | Quantum Drive | 9.9 | 0.02 | 495.0 | 248 |
 | 17 | Origin 600i | Bolon | C | Quantum Drive | 9.9 | 0.02 | 495.0 | 276 |
 | 18 | Origin 600i | Huracan | B | Quantum Drive | 9.9 | 0.02 | 495.0 | 304 |
@@ -1489,15 +1489,15 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 31 | Origin 600i Touring | Crossfield | C | Quantum Drive | 9.9 | 0.021 | 471.4 | 203 |
 | 32 | Origin 600i Touring | XL-1 | A | Quantum Drive | 9.9 | 0.021 | 471.4 | 264 |
 | 33 | Origin 600i Touring | Yeager | B | Quantum Drive | 9.9 | 0.021 | 471.4 | 224 |
-| 34 | RSI Hermes | Yaluk | D | Quantum Drive | 9.4 | 0.02 | 470.0 | 248 |
-| 35 | RSI Hermes | Bolon | C | Quantum Drive | 9.4 | 0.02 | 470.0 | 276 |
-| 36 | RSI Hermes | Huracan | B | Quantum Drive | 9.4 | 0.02 | 470.0 | 304 |
-| 37 | RSI Apollo Medivac | Yaluk | D | Quantum Drive | 9.4 | 0.02 | 470.0 | 248 |
-| 38 | RSI Apollo Medivac | Bolon | C | Quantum Drive | 9.4 | 0.02 | 470.0 | 276 |
-| 39 | RSI Apollo Medivac | Huracan | B | Quantum Drive | 9.4 | 0.02 | 470.0 | 304 |
-| 40 | RSI Apollo Triage | Yaluk | D | Quantum Drive | 9.4 | 0.02 | 470.0 | 248 |
-| 41 | RSI Apollo Triage | Bolon | C | Quantum Drive | 9.4 | 0.02 | 470.0 | 276 |
-| 42 | RSI Apollo Triage | Huracan | B | Quantum Drive | 9.4 | 0.02 | 470.0 | 304 |
+| 34 | RSI Apollo Medivac | Yaluk | D | Quantum Drive | 9.4 | 0.02 | 470.0 | 248 |
+| 35 | RSI Apollo Medivac | Bolon | C | Quantum Drive | 9.4 | 0.02 | 470.0 | 276 |
+| 36 | RSI Apollo Medivac | Huracan | B | Quantum Drive | 9.4 | 0.02 | 470.0 | 304 |
+| 37 | RSI Apollo Triage | Yaluk | D | Quantum Drive | 9.4 | 0.02 | 470.0 | 248 |
+| 38 | RSI Apollo Triage | Bolon | C | Quantum Drive | 9.4 | 0.02 | 470.0 | 276 |
+| 39 | RSI Apollo Triage | Huracan | B | Quantum Drive | 9.4 | 0.02 | 470.0 | 304 |
+| 40 | RSI Hermes | Yaluk | D | Quantum Drive | 9.4 | 0.02 | 470.0 | 248 |
+| 41 | RSI Hermes | Bolon | C | Quantum Drive | 9.4 | 0.02 | 470.0 | 276 |
+| 42 | RSI Hermes | Huracan | B | Quantum Drive | 9.4 | 0.02 | 470.0 | 304 |
 | 43 | MISC Hull B | Nova | C | Quantum Drive | 8.4 | 0.018 | 466.7 | 211 |
 | 44 | MISC Hull B | Spicule | A | Quantum Drive | 8.4 | 0.018 | 466.7 | 274 |
 | 45 | MISC Hull B | Bolt | B | Quantum Drive | 8.4 | 0.018 | 466.7 | 232 |
@@ -1535,15 +1535,15 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 77 | RSI Constellation Mk IV Aquila | Nova | C | Quantum Drive | 8.1 | 0.018 | 450.0 | 211 |
 | 78 | RSI Constellation Mk IV Aquila | Spicule | A | Quantum Drive | 8.1 | 0.018 | 450.0 | 274 |
 | 79 | RSI Constellation Mk IV Aquila | Bolt | B | Quantum Drive | 8.1 | 0.018 | 450.0 | 232 |
-| 80 | RSI Hermes | Crossfield | C | Quantum Drive | 9.4 | 0.021 | 447.6 | 203 |
-| 81 | RSI Hermes | XL-1 | A | Quantum Drive | 9.4 | 0.021 | 447.6 | 264 |
-| 82 | RSI Hermes | Yeager | B | Quantum Drive | 9.4 | 0.021 | 447.6 | 224 |
-| 83 | RSI Apollo Medivac | Crossfield | C | Quantum Drive | 9.4 | 0.021 | 447.6 | 203 |
-| 84 | RSI Apollo Medivac | XL-1 | A | Quantum Drive | 9.4 | 0.021 | 447.6 | 264 |
-| 85 | RSI Apollo Medivac | Yeager | B | Quantum Drive | 9.4 | 0.021 | 447.6 | 224 |
-| 86 | RSI Apollo Triage | Crossfield | C | Quantum Drive | 9.4 | 0.021 | 447.6 | 203 |
-| 87 | RSI Apollo Triage | XL-1 | A | Quantum Drive | 9.4 | 0.021 | 447.6 | 264 |
-| 88 | RSI Apollo Triage | Yeager | B | Quantum Drive | 9.4 | 0.021 | 447.6 | 224 |
+| 80 | RSI Apollo Medivac | Crossfield | C | Quantum Drive | 9.4 | 0.021 | 447.6 | 203 |
+| 81 | RSI Apollo Medivac | XL-1 | A | Quantum Drive | 9.4 | 0.021 | 447.6 | 264 |
+| 82 | RSI Apollo Medivac | Yeager | B | Quantum Drive | 9.4 | 0.021 | 447.6 | 224 |
+| 83 | RSI Apollo Triage | Crossfield | C | Quantum Drive | 9.4 | 0.021 | 447.6 | 203 |
+| 84 | RSI Apollo Triage | XL-1 | A | Quantum Drive | 9.4 | 0.021 | 447.6 | 264 |
+| 85 | RSI Apollo Triage | Yeager | B | Quantum Drive | 9.4 | 0.021 | 447.6 | 224 |
+| 86 | RSI Hermes | Crossfield | C | Quantum Drive | 9.4 | 0.021 | 447.6 | 203 |
+| 87 | RSI Hermes | XL-1 | A | Quantum Drive | 9.4 | 0.021 | 447.6 | 264 |
+| 88 | RSI Hermes | Yeager | B | Quantum Drive | 9.4 | 0.021 | 447.6 | 224 |
 | 89 | MISC Starlancer MAX | Yaluk | D | Quantum Drive | 8.6 | 0.02 | 430.0 | 248 |
 | 90 | MISC Starlancer MAX | Bolon | C | Quantum Drive | 8.6 | 0.02 | 430.0 | 276 |
 | 91 | MISC Starlancer MAX | Huracan | B | Quantum Drive | 8.6 | 0.02 | 430.0 | 304 |
@@ -1559,39 +1559,39 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 101 | RSI Constellation Mk IV Taurus | Nova | C | Quantum Drive | 7.7 | 0.018 | 427.8 | 211 |
 | 102 | RSI Constellation Mk IV Taurus | Spicule | A | Quantum Drive | 7.7 | 0.018 | 427.8 | 274 |
 | 103 | RSI Constellation Mk IV Taurus | Bolt | B | Quantum Drive | 7.7 | 0.018 | 427.8 | 232 |
-| 104 | RSI Hermes | Cascade | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 237 |
-| 105 | RSI Hermes | SparkFire | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 301 |
-| 106 | RSI Hermes | Flash | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 290 |
-| 107 | RSI Hermes | Hemera | A | Quantum Drive | 9.4 | 0.022 | 427.3 | 326 |
-| 108 | RSI Hermes | Sojourn | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 262 |
-| 109 | RSI Hermes | SunFire | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 331 |
-| 110 | RSI Hermes | Aither | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 276 |
-| 111 | RSI Hermes | Torrent | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 263 |
-| 112 | RSI Hermes | Khaos | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 251 |
-| 113 | RSI Hermes | Quest | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 214 |
-| 114 | RSI Hermes | Odyssey ★ | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 238 |
-| 115 | RSI Apollo Medivac | Cascade | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 237 |
-| 116 | RSI Apollo Medivac | SparkFire | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 301 |
-| 117 | RSI Apollo Medivac | Flash | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 290 |
-| 118 | RSI Apollo Medivac | Hemera | A | Quantum Drive | 9.4 | 0.022 | 427.3 | 326 |
-| 119 | RSI Apollo Medivac | Sojourn | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 262 |
-| 120 | RSI Apollo Medivac | SunFire | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 331 |
-| 121 | RSI Apollo Medivac | Aither | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 276 |
-| 122 | RSI Apollo Medivac | Torrent | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 263 |
-| 123 | RSI Apollo Medivac | Khaos | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 251 |
-| 124 | RSI Apollo Medivac | Quest | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 214 |
-| 125 | RSI Apollo Medivac | Odyssey ★ | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 238 |
-| 126 | RSI Apollo Triage | Cascade | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 237 |
-| 127 | RSI Apollo Triage | SparkFire | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 301 |
-| 128 | RSI Apollo Triage | Flash | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 290 |
-| 129 | RSI Apollo Triage | Hemera | A | Quantum Drive | 9.4 | 0.022 | 427.3 | 326 |
-| 130 | RSI Apollo Triage | Sojourn | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 262 |
-| 131 | RSI Apollo Triage | SunFire | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 331 |
-| 132 | RSI Apollo Triage | Aither | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 276 |
-| 133 | RSI Apollo Triage | Torrent | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 263 |
-| 134 | RSI Apollo Triage | Khaos | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 251 |
-| 135 | RSI Apollo Triage | Quest | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 214 |
-| 136 | RSI Apollo Triage | Odyssey ★ | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 238 |
+| 104 | RSI Apollo Medivac | Cascade | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 237 |
+| 105 | RSI Apollo Medivac | SparkFire | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 301 |
+| 106 | RSI Apollo Medivac | Flash | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 290 |
+| 107 | RSI Apollo Medivac | Hemera | A | Quantum Drive | 9.4 | 0.022 | 427.3 | 326 |
+| 108 | RSI Apollo Medivac | Sojourn | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 262 |
+| 109 | RSI Apollo Medivac | SunFire | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 331 |
+| 110 | RSI Apollo Medivac | Aither | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 276 |
+| 111 | RSI Apollo Medivac | Torrent | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 263 |
+| 112 | RSI Apollo Medivac | Khaos | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 251 |
+| 113 | RSI Apollo Medivac | Quest | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 214 |
+| 114 | RSI Apollo Medivac | Odyssey ★ | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 238 |
+| 115 | RSI Apollo Triage | Cascade | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 237 |
+| 116 | RSI Apollo Triage | SparkFire | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 301 |
+| 117 | RSI Apollo Triage | Flash | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 290 |
+| 118 | RSI Apollo Triage | Hemera | A | Quantum Drive | 9.4 | 0.022 | 427.3 | 326 |
+| 119 | RSI Apollo Triage | Sojourn | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 262 |
+| 120 | RSI Apollo Triage | SunFire | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 331 |
+| 121 | RSI Apollo Triage | Aither | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 276 |
+| 122 | RSI Apollo Triage | Torrent | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 263 |
+| 123 | RSI Apollo Triage | Khaos | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 251 |
+| 124 | RSI Apollo Triage | Quest | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 214 |
+| 125 | RSI Apollo Triage | Odyssey ★ | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 238 |
+| 126 | RSI Hermes | Cascade | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 237 |
+| 127 | RSI Hermes | SparkFire | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 301 |
+| 128 | RSI Hermes | Flash | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 290 |
+| 129 | RSI Hermes | Hemera | A | Quantum Drive | 9.4 | 0.022 | 427.3 | 326 |
+| 130 | RSI Hermes | Sojourn | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 262 |
+| 131 | RSI Hermes | SunFire | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 331 |
+| 132 | RSI Hermes | Aither | B | Quantum Drive | 9.4 | 0.022 | 427.3 | 276 |
+| 133 | RSI Hermes | Torrent | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 263 |
+| 134 | RSI Hermes | Khaos | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 251 |
+| 135 | RSI Hermes | Quest | D | Quantum Drive | 9.4 | 0.022 | 427.3 | 214 |
+| 136 | RSI Hermes | Odyssey ★ | C | Quantum Drive | 9.4 | 0.022 | 427.3 | 238 |
 | 137 | MISC Hull B | Yaluk | D | Quantum Drive | 8.4 | 0.02 | 420.0 | 248 |
 | 138 | MISC Hull B | Bolon | C | Quantum Drive | 8.4 | 0.02 | 420.0 | 276 |
 | 139 | MISC Hull B | Huracan | B | Quantum Drive | 8.4 | 0.02 | 420.0 | 304 |
@@ -1694,12 +1694,12 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 236 | Esperia Prowler Utility | Yaluk | D | Quantum Drive | 7.5 | 0.02 | 375.0 | 248 |
 | 237 | Esperia Prowler Utility | Bolon | C | Quantum Drive | 7.5 | 0.02 | 375.0 | 276 |
 | 238 | Esperia Prowler Utility | Huracan | B | Quantum Drive | 7.5 | 0.02 | 375.0 | 304 |
-| 239 | RSI Zeus Mk II ES | Nova | C | Quantum Drive | 6.7 | 0.018 | 372.2 | 211 |
-| 240 | RSI Zeus Mk II ES | Spicule | A | Quantum Drive | 6.7 | 0.018 | 372.2 | 274 |
-| 241 | RSI Zeus Mk II ES | Bolt | B | Quantum Drive | 6.7 | 0.018 | 372.2 | 232 |
-| 242 | MISC Freelancer DUR | Nova | C | Quantum Drive | 6.7 | 0.018 | 372.2 | 211 |
-| 243 | MISC Freelancer DUR | Spicule | A | Quantum Drive | 6.7 | 0.018 | 372.2 | 274 |
-| 244 | MISC Freelancer DUR | Bolt | B | Quantum Drive | 6.7 | 0.018 | 372.2 | 232 |
+| 239 | MISC Freelancer DUR | Nova | C | Quantum Drive | 6.7 | 0.018 | 372.2 | 211 |
+| 240 | MISC Freelancer DUR | Spicule | A | Quantum Drive | 6.7 | 0.018 | 372.2 | 274 |
+| 241 | MISC Freelancer DUR | Bolt | B | Quantum Drive | 6.7 | 0.018 | 372.2 | 232 |
+| 242 | RSI Zeus Mk II ES | Nova | C | Quantum Drive | 6.7 | 0.018 | 372.2 | 211 |
+| 243 | RSI Zeus Mk II ES | Spicule | A | Quantum Drive | 6.7 | 0.018 | 372.2 | 274 |
+| 244 | RSI Zeus Mk II ES | Bolt | B | Quantum Drive | 6.7 | 0.018 | 372.2 | 232 |
 | 245 | Crusader Mercury Star Runner | Cascade | D | Quantum Drive | 8.1 | 0.022 | 368.2 | 237 |
 | 246 | Crusader Mercury Star Runner | SparkFire | C | Quantum Drive | 8.1 | 0.022 | 368.2 | 301 |
 | 247 | Crusader Mercury Star Runner | Flash | B | Quantum Drive | 8.1 | 0.022 | 368.2 | 290 |
@@ -1762,21 +1762,21 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 304 | Esperia Prowler Utility | Crossfield | C | Quantum Drive | 7.5 | 0.021 | 357.1 | 203 |
 | 305 | Esperia Prowler Utility | XL-1 | A | Quantum Drive | 7.5 | 0.021 | 357.1 | 264 |
 | 306 | Esperia Prowler Utility | Yeager | B | Quantum Drive | 7.5 | 0.021 | 357.1 | 224 |
-| 307 | RSI Zeus Mk II CL | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
-| 308 | RSI Zeus Mk II CL | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
-| 309 | RSI Zeus Mk II CL | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
-| 310 | Argo MOLE | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
-| 311 | Argo MOLE | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
-| 312 | Argo MOLE | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
-| 313 | Argo MOTH | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
-| 314 | Argo MOTH | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
-| 315 | Argo MOTH | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
-| 316 | Argo SRV | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
-| 317 | Argo SRV | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
-| 318 | Argo SRV | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
-| 319 | MISC Freelancer MAX | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
-| 320 | MISC Freelancer MAX | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
-| 321 | MISC Freelancer MAX | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
+| 307 | Argo MOLE | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
+| 308 | Argo MOLE | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
+| 309 | Argo MOLE | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
+| 310 | Argo MOTH | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
+| 311 | Argo MOTH | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
+| 312 | Argo MOTH | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
+| 313 | Argo SRV | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
+| 314 | Argo SRV | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
+| 315 | Argo SRV | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
+| 316 | MISC Freelancer MAX | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
+| 317 | MISC Freelancer MAX | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
+| 318 | MISC Freelancer MAX | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
+| 319 | RSI Zeus Mk II CL | Nova | C | Quantum Drive | 6.4 | 0.018 | 355.6 | 211 |
+| 320 | RSI Zeus Mk II CL | Spicule | A | Quantum Drive | 6.4 | 0.018 | 355.6 | 274 |
+| 321 | RSI Zeus Mk II CL | Bolt | B | Quantum Drive | 6.4 | 0.018 | 355.6 | 232 |
 | 322 | Aegis Redeemer | Nova | C | Quantum Drive | 6.3 | 0.018 | 350.0 | 211 |
 | 323 | Aegis Redeemer | Spicule | A | Quantum Drive | 6.3 | 0.018 | 350.0 | 274 |
 | 324 | Aegis Redeemer | Bolt | B | Quantum Drive | 6.3 | 0.018 | 350.0 | 232 |
@@ -1842,12 +1842,12 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 384 | Esperia Prowler Utility | Khaos | C | Quantum Drive | 7.5 | 0.022 | 340.9 | 251 |
 | 385 | Esperia Prowler Utility | Quest | D | Quantum Drive | 7.5 | 0.022 | 340.9 | 214 |
 | 386 | Esperia Prowler Utility | Odyssey | C | Quantum Drive | 7.5 | 0.022 | 340.9 | 238 |
-| 387 | RSI Zeus Mk II ES | Yaluk | D | Quantum Drive | 6.7 | 0.02 | 335.0 | 248 |
-| 388 | RSI Zeus Mk II ES | Bolon | C | Quantum Drive | 6.7 | 0.02 | 335.0 | 276 |
-| 389 | RSI Zeus Mk II ES | Huracan | B | Quantum Drive | 6.7 | 0.02 | 335.0 | 304 |
-| 390 | MISC Freelancer DUR | Yaluk | D | Quantum Drive | 6.7 | 0.02 | 335.0 | 248 |
-| 391 | MISC Freelancer DUR | Bolon | C | Quantum Drive | 6.7 | 0.02 | 335.0 | 276 |
-| 392 | MISC Freelancer DUR | Huracan | B | Quantum Drive | 6.7 | 0.02 | 335.0 | 304 |
+| 387 | MISC Freelancer DUR | Yaluk | D | Quantum Drive | 6.7 | 0.02 | 335.0 | 248 |
+| 388 | MISC Freelancer DUR | Bolon | C | Quantum Drive | 6.7 | 0.02 | 335.0 | 276 |
+| 389 | MISC Freelancer DUR | Huracan | B | Quantum Drive | 6.7 | 0.02 | 335.0 | 304 |
+| 390 | RSI Zeus Mk II ES | Yaluk | D | Quantum Drive | 6.7 | 0.02 | 335.0 | 248 |
+| 391 | RSI Zeus Mk II ES | Bolon | C | Quantum Drive | 6.7 | 0.02 | 335.0 | 276 |
+| 392 | RSI Zeus Mk II ES | Huracan | B | Quantum Drive | 6.7 | 0.02 | 335.0 | 304 |
 | 393 | Aegis Retaliator | Crossfield ★ | C | Quantum Drive | 7 | 0.021 | 333.3 | 203 |
 | 394 | Aegis Retaliator | XL-1 | A | Quantum Drive | 7 | 0.021 | 333.3 | 264 |
 | 395 | Aegis Retaliator | Yeager | B | Quantum Drive | 7 | 0.021 | 333.3 | 224 |
@@ -1900,27 +1900,27 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 442 | Drake Cutlass Steel | Khaos | C | Quantum Drive | 7.2 | 0.022 | 327.3 | 251 |
 | 443 | Drake Cutlass Steel | Quest | D | Quantum Drive | 7.2 | 0.022 | 327.3 | 214 |
 | 444 | Drake Cutlass Steel | Odyssey | C | Quantum Drive | 7.2 | 0.022 | 327.3 | 238 |
-| 445 | RSI Zeus Mk II CL | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
-| 446 | RSI Zeus Mk II CL | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
-| 447 | RSI Zeus Mk II CL | Huracan | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
-| 448 | Argo MOLE | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
-| 449 | Argo MOLE | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
-| 450 | Argo MOLE | Huracan ★ | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
-| 451 | Argo MOTH | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
-| 452 | Argo MOTH | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
-| 453 | Argo MOTH | Huracan ★ | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
-| 454 | Argo SRV | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
-| 455 | Argo SRV | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
-| 456 | Argo SRV | Huracan ★ | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
-| 457 | MISC Freelancer MAX | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
-| 458 | MISC Freelancer MAX | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
-| 459 | MISC Freelancer MAX | Huracan | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
-| 460 | RSI Zeus Mk II ES | Crossfield | C | Quantum Drive | 6.7 | 0.021 | 319.0 | 203 |
-| 461 | RSI Zeus Mk II ES | XL-1 | A | Quantum Drive | 6.7 | 0.021 | 319.0 | 264 |
-| 462 | RSI Zeus Mk II ES | Yeager | B | Quantum Drive | 6.7 | 0.021 | 319.0 | 224 |
-| 463 | MISC Freelancer DUR | Crossfield | C | Quantum Drive | 6.7 | 0.021 | 319.0 | 203 |
-| 464 | MISC Freelancer DUR | XL-1 | A | Quantum Drive | 6.7 | 0.021 | 319.0 | 264 |
-| 465 | MISC Freelancer DUR | Yeager | B | Quantum Drive | 6.7 | 0.021 | 319.0 | 224 |
+| 445 | Argo MOLE | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
+| 446 | Argo MOLE | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
+| 447 | Argo MOLE | Huracan ★ | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
+| 448 | Argo MOTH | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
+| 449 | Argo MOTH | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
+| 450 | Argo MOTH | Huracan ★ | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
+| 451 | Argo SRV | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
+| 452 | Argo SRV | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
+| 453 | Argo SRV | Huracan ★ | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
+| 454 | MISC Freelancer MAX | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
+| 455 | MISC Freelancer MAX | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
+| 456 | MISC Freelancer MAX | Huracan | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
+| 457 | RSI Zeus Mk II CL | Yaluk | D | Quantum Drive | 6.4 | 0.02 | 320.0 | 248 |
+| 458 | RSI Zeus Mk II CL | Bolon | C | Quantum Drive | 6.4 | 0.02 | 320.0 | 276 |
+| 459 | RSI Zeus Mk II CL | Huracan | B | Quantum Drive | 6.4 | 0.02 | 320.0 | 304 |
+| 460 | MISC Freelancer DUR | Crossfield | C | Quantum Drive | 6.7 | 0.021 | 319.0 | 203 |
+| 461 | MISC Freelancer DUR | XL-1 | A | Quantum Drive | 6.7 | 0.021 | 319.0 | 264 |
+| 462 | MISC Freelancer DUR | Yeager | B | Quantum Drive | 6.7 | 0.021 | 319.0 | 224 |
+| 463 | RSI Zeus Mk II ES | Crossfield | C | Quantum Drive | 6.7 | 0.021 | 319.0 | 203 |
+| 464 | RSI Zeus Mk II ES | XL-1 | A | Quantum Drive | 6.7 | 0.021 | 319.0 | 264 |
+| 465 | RSI Zeus Mk II ES | Yeager | B | Quantum Drive | 6.7 | 0.021 | 319.0 | 224 |
 | 466 | Aegis Retaliator | Cascade | D | Quantum Drive | 7 | 0.022 | 318.2 | 237 |
 | 467 | Aegis Retaliator | SparkFire | C | Quantum Drive | 7 | 0.022 | 318.2 | 301 |
 | 468 | Aegis Retaliator | Flash | B | Quantum Drive | 7 | 0.022 | 318.2 | 290 |
@@ -1977,43 +1977,43 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 519 | Aegis Vanguard Warden | Nova | C | Quantum Drive | 5.5 | 0.018 | 305.6 | 211 |
 | 520 | Aegis Vanguard Warden | Spicule | A | Quantum Drive | 5.5 | 0.018 | 305.6 | 274 |
 | 521 | Aegis Vanguard Warden | Bolt | B | Quantum Drive | 5.5 | 0.018 | 305.6 | 232 |
-| 522 | RSI Zeus Mk II CL | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
-| 523 | RSI Zeus Mk II CL | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
-| 524 | RSI Zeus Mk II CL | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
-| 525 | Argo MOLE | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
-| 526 | Argo MOLE | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
-| 527 | Argo MOLE | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
-| 528 | Argo MOTH | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
-| 529 | Argo MOTH | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
-| 530 | Argo MOTH | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
-| 531 | Argo SRV | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
-| 532 | Argo SRV | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
-| 533 | Argo SRV | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
-| 534 | MISC Freelancer MAX | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
-| 535 | MISC Freelancer MAX | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
-| 536 | MISC Freelancer MAX | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
-| 537 | RSI Zeus Mk II ES | Cascade | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 237 |
-| 538 | RSI Zeus Mk II ES | SparkFire | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 301 |
-| 539 | RSI Zeus Mk II ES | Flash | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 290 |
-| 540 | RSI Zeus Mk II ES | Hemera | A | Quantum Drive | 6.7 | 0.022 | 304.5 | 326 |
-| 541 | RSI Zeus Mk II ES | Sojourn | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 262 |
-| 542 | RSI Zeus Mk II ES | SunFire | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 331 |
-| 543 | RSI Zeus Mk II ES | Aither | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 276 |
-| 544 | RSI Zeus Mk II ES | Torrent | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 263 |
-| 545 | RSI Zeus Mk II ES | Khaos ★ | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 251 |
-| 546 | RSI Zeus Mk II ES | Quest | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 214 |
-| 547 | RSI Zeus Mk II ES | Odyssey | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 238 |
-| 548 | MISC Freelancer DUR | Cascade | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 237 |
-| 549 | MISC Freelancer DUR | SparkFire | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 301 |
-| 550 | MISC Freelancer DUR | Flash | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 290 |
-| 551 | MISC Freelancer DUR | Hemera | A | Quantum Drive | 6.7 | 0.022 | 304.5 | 326 |
-| 552 | MISC Freelancer DUR | Sojourn | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 262 |
-| 553 | MISC Freelancer DUR | SunFire | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 331 |
-| 554 | MISC Freelancer DUR | Aither | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 276 |
-| 555 | MISC Freelancer DUR | Torrent | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 263 |
-| 556 | MISC Freelancer DUR | Khaos | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 251 |
-| 557 | MISC Freelancer DUR | Quest | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 214 |
-| 558 | MISC Freelancer DUR | Odyssey ★ | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 238 |
+| 522 | Argo MOLE | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
+| 523 | Argo MOLE | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
+| 524 | Argo MOLE | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
+| 525 | Argo MOTH | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
+| 526 | Argo MOTH | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
+| 527 | Argo MOTH | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
+| 528 | Argo SRV | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
+| 529 | Argo SRV | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
+| 530 | Argo SRV | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
+| 531 | MISC Freelancer MAX | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
+| 532 | MISC Freelancer MAX | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
+| 533 | MISC Freelancer MAX | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
+| 534 | RSI Zeus Mk II CL | Crossfield | C | Quantum Drive | 6.4 | 0.021 | 304.8 | 203 |
+| 535 | RSI Zeus Mk II CL | XL-1 | A | Quantum Drive | 6.4 | 0.021 | 304.8 | 264 |
+| 536 | RSI Zeus Mk II CL | Yeager | B | Quantum Drive | 6.4 | 0.021 | 304.8 | 224 |
+| 537 | MISC Freelancer DUR | Cascade | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 237 |
+| 538 | MISC Freelancer DUR | SparkFire | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 301 |
+| 539 | MISC Freelancer DUR | Flash | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 290 |
+| 540 | MISC Freelancer DUR | Hemera | A | Quantum Drive | 6.7 | 0.022 | 304.5 | 326 |
+| 541 | MISC Freelancer DUR | Sojourn | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 262 |
+| 542 | MISC Freelancer DUR | SunFire | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 331 |
+| 543 | MISC Freelancer DUR | Aither | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 276 |
+| 544 | MISC Freelancer DUR | Torrent | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 263 |
+| 545 | MISC Freelancer DUR | Khaos | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 251 |
+| 546 | MISC Freelancer DUR | Quest | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 214 |
+| 547 | MISC Freelancer DUR | Odyssey ★ | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 238 |
+| 548 | RSI Zeus Mk II ES | Cascade | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 237 |
+| 549 | RSI Zeus Mk II ES | SparkFire | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 301 |
+| 550 | RSI Zeus Mk II ES | Flash | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 290 |
+| 551 | RSI Zeus Mk II ES | Hemera | A | Quantum Drive | 6.7 | 0.022 | 304.5 | 326 |
+| 552 | RSI Zeus Mk II ES | Sojourn | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 262 |
+| 553 | RSI Zeus Mk II ES | SunFire | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 331 |
+| 554 | RSI Zeus Mk II ES | Aither | B | Quantum Drive | 6.7 | 0.022 | 304.5 | 276 |
+| 555 | RSI Zeus Mk II ES | Torrent | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 263 |
+| 556 | RSI Zeus Mk II ES | Khaos ★ | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 251 |
+| 557 | RSI Zeus Mk II ES | Quest | D | Quantum Drive | 6.7 | 0.022 | 304.5 | 214 |
+| 558 | RSI Zeus Mk II ES | Odyssey | C | Quantum Drive | 6.7 | 0.022 | 304.5 | 238 |
 | 559 | Aegis Redeemer | Crossfield ★ | C | Quantum Drive | 6.3 | 0.021 | 300.0 | 203 |
 | 560 | Aegis Redeemer | XL-1 | A | Quantum Drive | 6.3 | 0.021 | 300.0 | 264 |
 | 561 | Aegis Redeemer | Yeager | B | Quantum Drive | 6.3 | 0.021 | 300.0 | 224 |
@@ -2035,61 +2035,61 @@ Note: `fuel_consumption_scu_per_gm` is rounded to 3 decimals in the API; for siz
 | 577 | MISC Freelancer MIS | Yaluk | D | Quantum Drive | 5.9 | 0.02 | 295.0 | 248 |
 | 578 | MISC Freelancer MIS | Bolon | C | Quantum Drive | 5.9 | 0.02 | 295.0 | 276 |
 | 579 | MISC Freelancer MIS | Huracan | B | Quantum Drive | 5.9 | 0.02 | 295.0 | 304 |
-| 580 | RSI Zeus Mk II CL | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
-| 581 | RSI Zeus Mk II CL | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
-| 582 | RSI Zeus Mk II CL | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
-| 583 | RSI Zeus Mk II CL | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
-| 584 | RSI Zeus Mk II CL | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
-| 585 | RSI Zeus Mk II CL | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
-| 586 | RSI Zeus Mk II CL | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
-| 587 | RSI Zeus Mk II CL | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
-| 588 | RSI Zeus Mk II CL | Khaos ★ | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
-| 589 | RSI Zeus Mk II CL | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
-| 590 | RSI Zeus Mk II CL | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
-| 591 | Argo MOLE | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
-| 592 | Argo MOLE | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
-| 593 | Argo MOLE | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
-| 594 | Argo MOLE | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
-| 595 | Argo MOLE | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
-| 596 | Argo MOLE | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
-| 597 | Argo MOLE | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
-| 598 | Argo MOLE | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
-| 599 | Argo MOLE | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
-| 600 | Argo MOLE | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
-| 601 | Argo MOLE | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
-| 602 | Argo MOTH | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
-| 603 | Argo MOTH | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
-| 604 | Argo MOTH | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
-| 605 | Argo MOTH | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
-| 606 | Argo MOTH | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
-| 607 | Argo MOTH | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
-| 608 | Argo MOTH | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
-| 609 | Argo MOTH | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
-| 610 | Argo MOTH | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
-| 611 | Argo MOTH | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
-| 612 | Argo MOTH | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
-| 613 | Argo SRV | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
-| 614 | Argo SRV | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
-| 615 | Argo SRV | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
-| 616 | Argo SRV | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
-| 617 | Argo SRV | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
-| 618 | Argo SRV | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
-| 619 | Argo SRV | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
-| 620 | Argo SRV | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
-| 621 | Argo SRV | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
-| 622 | Argo SRV | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
-| 623 | Argo SRV | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
-| 624 | MISC Freelancer MAX | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
-| 625 | MISC Freelancer MAX | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
-| 626 | MISC Freelancer MAX | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
-| 627 | MISC Freelancer MAX | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
-| 628 | MISC Freelancer MAX | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
-| 629 | MISC Freelancer MAX | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
-| 630 | MISC Freelancer MAX | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
-| 631 | MISC Freelancer MAX | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
-| 632 | MISC Freelancer MAX | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
-| 633 | MISC Freelancer MAX | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
-| 634 | MISC Freelancer MAX | Odyssey ★ | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
+| 580 | Argo MOLE | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
+| 581 | Argo MOLE | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
+| 582 | Argo MOLE | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
+| 583 | Argo MOLE | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
+| 584 | Argo MOLE | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
+| 585 | Argo MOLE | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
+| 586 | Argo MOLE | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
+| 587 | Argo MOLE | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
+| 588 | Argo MOLE | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
+| 589 | Argo MOLE | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
+| 590 | Argo MOLE | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
+| 591 | Argo MOTH | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
+| 592 | Argo MOTH | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
+| 593 | Argo MOTH | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
+| 594 | Argo MOTH | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
+| 595 | Argo MOTH | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
+| 596 | Argo MOTH | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
+| 597 | Argo MOTH | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
+| 598 | Argo MOTH | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
+| 599 | Argo MOTH | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
+| 600 | Argo MOTH | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
+| 601 | Argo MOTH | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
+| 602 | Argo SRV | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
+| 603 | Argo SRV | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
+| 604 | Argo SRV | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
+| 605 | Argo SRV | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
+| 606 | Argo SRV | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
+| 607 | Argo SRV | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
+| 608 | Argo SRV | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
+| 609 | Argo SRV | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
+| 610 | Argo SRV | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
+| 611 | Argo SRV | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
+| 612 | Argo SRV | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
+| 613 | MISC Freelancer MAX | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
+| 614 | MISC Freelancer MAX | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
+| 615 | MISC Freelancer MAX | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
+| 616 | MISC Freelancer MAX | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
+| 617 | MISC Freelancer MAX | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
+| 618 | MISC Freelancer MAX | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
+| 619 | MISC Freelancer MAX | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
+| 620 | MISC Freelancer MAX | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
+| 621 | MISC Freelancer MAX | Khaos | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
+| 622 | MISC Freelancer MAX | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
+| 623 | MISC Freelancer MAX | Odyssey ★ | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
+| 624 | RSI Zeus Mk II CL | Cascade | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 237 |
+| 625 | RSI Zeus Mk II CL | SparkFire | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 301 |
+| 626 | RSI Zeus Mk II CL | Flash | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 290 |
+| 627 | RSI Zeus Mk II CL | Hemera | A | Quantum Drive | 6.4 | 0.022 | 290.9 | 326 |
+| 628 | RSI Zeus Mk II CL | Sojourn | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 262 |
+| 629 | RSI Zeus Mk II CL | SunFire | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 331 |
+| 630 | RSI Zeus Mk II CL | Aither | B | Quantum Drive | 6.4 | 0.022 | 290.9 | 276 |
+| 631 | RSI Zeus Mk II CL | Torrent | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 263 |
+| 632 | RSI Zeus Mk II CL | Khaos ★ | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 251 |
+| 633 | RSI Zeus Mk II CL | Quest | D | Quantum Drive | 6.4 | 0.022 | 290.9 | 214 |
+| 634 | RSI Zeus Mk II CL | Odyssey | C | Quantum Drive | 6.4 | 0.022 | 290.9 | 238 |
 | 635 | Aegis Redeemer | Cascade | D | Quantum Drive | 6.3 | 0.022 | 286.4 | 237 |
 | 636 | Aegis Redeemer | SparkFire | C | Quantum Drive | 6.3 | 0.022 | 286.4 | 301 |
 | 637 | Aegis Redeemer | Flash | B | Quantum Drive | 6.3 | 0.022 | 286.4 | 290 |

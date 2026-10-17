@@ -4,12 +4,22 @@ Working directory for a ranking of ships by quantum range, grouped by quantum dr
 simulation. All data comes from the Star Citizen Wiki API and is stored locally so the API does not have to be
 queried again.
 
+> **Note:** This project was generated 100% by AI (GitHub Copilot CLI). Results have not been independently
+> verified; see [Known limitations](#known-limitations).
+>
+> The data comes from [Star Citizen](https://robertsspaceindustries.com/) (Cloud Imperium Games) and from
+> community sites: the [Star Citizen Wiki](https://star-citizen.wiki/) (via its
+> [API](https://api.star-citizen.wiki/)) and [UEX Corp](https://uexcorp.space) (prices). Star Citizen is a
+> trademark of Cloud Imperium Games; this is an unofficial fan project.
+
 ## Contents
 
 | Path | Description |
 |---|---|
 | `ships/p1..p12.json` | Ship records from the API (310 entries, version 4.10.2-LIVE.12881860), stored page by page |
 | `drives/<uuid>.json` | 59 quantum drive modules (all `QuantumDrive` items in the API) |
+| `version.json` | Game version the local data was fetched for |
+| `update_data.py` | Refreshes everything after a patch (fetch, combos, ranking, flight times, table) |
 | `combos.json` | All ship × drive combinations of matching size (2532) with range and speed |
 | `build_ranking.py` | Generates `ranking.md` from `combos.json` |
 | `ranking.md` | Ranking as Markdown, per size sorted by range |
@@ -28,7 +38,18 @@ queried again.
 - Prices: field `uex_prices.purchase` of the API (data from UEX, <https://uexcorp.space>), community data.
 
 The API requires a browser User-Agent (otherwise HTTP 403 on `/api/items/...`).
-The data is not updated automatically. For a new patch, reload `ships/` and `drives/`.
+The data is not updated automatically. After a new patch run:
+
+```
+cd sc-quantum
+python3 update_data.py             # fetch from the API and rebuild everything
+python3 update_data.py --no-fetch  # only rebuild the derived files from the local data
+```
+
+`update_data.py` downloads all ship pages and quantum drives into a temporary directory and replaces `ships/`,
+`drives/` and `version.json` only if every request succeeded (failed requests are retried). Drives that are equipped
+on ships but missing from the item list are fetched via the ship ports. Then it updates the version in `README.md` (from `version.json`) and rebuilds `combos.json`,
+`ranking.md`, `flighttime.json` and `web/data.js`. It needs only the Python standard library.
 
 ## Calculations
 
