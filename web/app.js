@@ -141,7 +141,17 @@ $('colpop').addEventListener('change', e => {
   localStorage.setItem('hiddenCols', JSON.stringify([...hidden]));
   if ($('complete').checked) applyFilters();
 });
-$('colbtn').addEventListener('click', e => { e.stopPropagation(); $('colmenu').classList.toggle('open'); });
+function placeMenu() {
+  const pop = $('colpop'), r = $('colbtn').getBoundingClientRect();
+  pop.style.top = r.bottom + 6 + 'px';
+  pop.style.left = Math.max(8, Math.min(r.right - pop.offsetWidth, window.innerWidth - pop.offsetWidth - 8)) + 'px';
+}
+$('colbtn').addEventListener('click', e => {
+  e.stopPropagation();
+  $('colmenu').classList.toggle('open');
+  placeMenu();
+});
+window.addEventListener('resize', () => { if ($('colmenu').classList.contains('open')) placeMenu(); });
 document.addEventListener('click', e => { if (!$('colmenu').contains(e.target)) $('colmenu').classList.remove('open'); });
 
 const setCount = n => { $('count').textContent = `${n} of ${ROWS.length}`; };

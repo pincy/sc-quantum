@@ -112,8 +112,8 @@ button.btn:hover { border-color: var(--accent); color: var(--accent); }
 
 .menu { position: relative; }
 .menu .pop {
-  display: none; position: absolute; right: 0; top: calc(100% + 6px); z-index: 20;
-  max-height: 60vh; overflow: auto; min-width: 12rem; padding: .5rem .7rem;
+  display: none; position: fixed; z-index: 20;
+  max-height: 60vh; max-width: calc(100vw - 16px); overflow: auto; min-width: 12rem; padding: .5rem .7rem;
   background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, .35);
 }
